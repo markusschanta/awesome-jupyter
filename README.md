@@ -34,6 +34,7 @@ A curated list of awesome Jupyter projects, libraries and resources.
 
 * [Binder](http://mybinder.org/) - Turn a GitHub repo into a collection of interactive notebooks.
 * [Bookbook](https://github.com/takluyver/bookbook) - Bookbook converts a set of notebooks in a directory to HTML or PDF, preserving cross references within and between notebooks.
+* [nbdime](https://github.com/jupyter/nbdime) - Tools for diffing and merging of Jupyter notebooks.
 * [Nikola](https://getnikola.com/) - Static Site Generator that converts notebooks into websites.
 * [Papermill](https://github.com/nteract/papermill) - Tool for parameterizing, executing, and analyzing Jupyter notebooks.
 * [RISE](https://github.com/damianavila/RISE) - Reveal.js Jupyter/IPython Slideshow.

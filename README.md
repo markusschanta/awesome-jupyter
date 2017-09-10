@@ -6,7 +6,7 @@ A curated list of awesome Jupyter projects, libraries and resources.
 
 - - -
 
-## Runtime/Frontend
+## Runtimes/Frontends
 
 * [Beaker](http://beakernotebook.com/) - Development environment with seamless data transmission from one language to another.
 * [Helium](https://github.com/nteract/hydrogen) - Run code inline in Atom using Jupyter kernels.
@@ -39,13 +39,13 @@ A curated list of awesome Jupyter projects, libraries and resources.
 * [Papermill](https://github.com/nteract/papermill) - Tool for parameterizing, executing, and analyzing Jupyter notebooks.
 * [RISE](https://github.com/damianavila/RISE) - Reveal.js Jupyter/IPython Slideshow.
 
-## Domain-Specific Project
+## Domain-Specific Projects
 
 * [GenePattern Notebook](http://genepattern-notebook.org/) - Jupyter to communicate with the open source GenePattern environment for integrative genomics analysis.
 * [GeoNotebook](https://github.com/OpenGeoscience/geonotebook) - extension to the Jupyter Notebook for exploratory geospatial analysis.
 * [Quantopian](https://www.quantopian.com/notebooks/survey) - Jupyter-based platform for financial research.
 
-## Hosted Notebook Solution
+## Hosted Notebook Solutions
 
 * [CoCalc](https://cocalc.com/) - Collaborative calculation in the cloud.
 * [DataScience.com](https://www.datascience.com/)

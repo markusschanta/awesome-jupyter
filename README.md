@@ -3,6 +3,13 @@
 A curated list of awesome Jupyter projects, libraries and resources.
 
 - [Awesome Jupyter](#awesome-jupyter)
+    - [Runtimes/Frontends](#runtimesfrontends)
+    - [Collaboration/Education](#collaborationeducation)
+    - [Visualization](#visualization)
+    - [Rendering/Publishing](#renderingpublishing)
+    - [Domain-Specific Projects](#domain-specific-projects)
+    - [Hosted Notebook Solutions](#hosted-notebook-solutions)
+    - [Documentation/Resources](#documentationresources)
 
 - - -
 

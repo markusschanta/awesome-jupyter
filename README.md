@@ -35,6 +35,7 @@ A curated list of awesome Jupyter projects, libraries and resources.
 * [bqplot](https://github.com/bloomberg/bqplot) - Grammar of Graphics-based interactive plotting framework for the Jupyter notebook.
 * [IPySigma](https://github.com/bsnacks000/IPySigma-Demo) - An extensible prototype network visualization frontend for Jupyter Notebooks.
 * [ipywidgets](https://github.com/jupyter-widgets/ipywidgets) - IPython widgets for the Jupyter Notebook.
+* [mpld3](http://mpld3.github.io/) - The mpld3 project brings together Matplotlib and D3js.
 * [pythreejs](https://github.com/jovyan/pythreejs) - Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 
 ## Rendering/Publishing

@@ -63,3 +63,4 @@ A curated list of awesome [Jupyter](http://jupyter.org/) projects, libraries and
 ## Documentation/Resources
 
 * [Zero to JupyterHub](http://zero-to-jupyterhub.readthedocs.io/en/latest/) - Tutorial to help install and manage JupyterHub.
+* [A gallery of interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)

@@ -6,7 +6,9 @@ A curated list of awesome [Jupyter](http://jupyter.org/) projects, libraries and
 	<br>
 	<img width="400" src="https://raw.githubusercontent.com/adebar/awesome-jupyter/master/logo.png" alt="Jupyter logo">
 	<br>
+  <br>
 </h1>
+<br>
 
 - [Awesome Jupyter](#awesome-jupyter)
     - [Runtimes/Frontends](#runtimesfrontends)

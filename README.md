@@ -10,6 +10,7 @@ A curated list of awesome [Jupyter](http://jupyter.org/) projects, libraries and
     - [Domain-Specific Projects](#domain-specific-projects)
     - [Hosted Notebook Solutions](#hosted-notebook-solutions)
     - [Documentation/Resources](#documentationresources)
+- [Contributing](#contributing)
 
 - - -
 
@@ -64,3 +65,7 @@ A curated list of awesome [Jupyter](http://jupyter.org/) projects, libraries and
 
 * [Zero to JupyterHub](http://zero-to-jupyterhub.readthedocs.io/en/latest/) - Tutorial to help install and manage JupyterHub.
 * [A gallery of interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
+
+# Contributing
+
+Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/adebar/awesome-jupyter/blob/master/CONTRIBUTING.md) first.

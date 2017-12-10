@@ -2,9 +2,9 @@
 
 A curated list of awesome [Jupyter](http://jupyter.org/) projects, libraries and resources. The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text.
 
-<h1 align="center">
-	<img width="400" src="https://raw.githubusercontent.com/adebar/awesome-jupyter/master/logo.png" alt="Jupyter logo">
+<h1 align="center" style="border-bottom: 0px;">
 	<br>
+	<img width="400" src="https://raw.githubusercontent.com/adebar/awesome-jupyter/master/logo.png" alt="Jupyter logo">
 	<br>
 </h1>
 

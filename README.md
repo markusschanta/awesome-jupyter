@@ -36,13 +36,13 @@ A curated list of awesome [Jupyter](http://jupyter.org/) projects, libraries and
 ## Collaboration/Education
 
 * [jupyter-drive](https://github.com/jupyter/jupyter-drive) - Google drive for the Jupyter Notebook.
-* [nbgrader](https://github.com/jupyter/nbgrader) - A system for assigning and grading notebooks.
+* [nbgrader](https://github.com/jupyter/nbgrader) - Assigning and grading of Jupyter Notebooks.
 
 ## Visualization
 
-* [Bokeh](https://bokeh.pydata.org/en/latest/) - interactive visualization library that targets modern web browsers for presentation.
+* [Bokeh](https://bokeh.pydata.org/en/latest/) - Interactive visualization library that targets modern web browsers for presentation.
 * [bqplot](https://github.com/bloomberg/bqplot) - Grammar of Graphics-based interactive plotting framework for the Jupyter notebook.
-* [IPySigma](https://github.com/bsnacks000/IPySigma-Demo) - An extensible prototype network visualization frontend for Jupyter Notebooks.
+* [IPySigma](https://github.com/bsnacks000/IPySigma-Demo) - Prototype network visualization frontend for Jupyter Notebooks.
 * [ipywidgets](https://github.com/jupyter-widgets/ipywidgets) - IPython widgets for the Jupyter Notebook.
 * [mpld3](http://mpld3.github.io/) - The mpld3 project brings together Matplotlib and D3js.
 * [pythreejs](https://github.com/jovyan/pythreejs) - Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
@@ -59,7 +59,7 @@ A curated list of awesome [Jupyter](http://jupyter.org/) projects, libraries and
 ## Domain-Specific Projects
 
 * [GenePattern Notebook](http://genepattern-notebook.org/) - Jupyter to communicate with the open source GenePattern environment for integrative genomics analysis.
-* [GeoNotebook](https://github.com/OpenGeoscience/geonotebook) - extension to the Jupyter Notebook for exploratory geospatial analysis.
+* [GeoNotebook](https://github.com/OpenGeoscience/geonotebook) - Extension to the Jupyter Notebook for exploratory geospatial analysis.
 * [Quantopian](https://www.quantopian.com/notebooks/survey) - Jupyter-based platform for financial research.
 
 ## Hosted Notebook Solutions

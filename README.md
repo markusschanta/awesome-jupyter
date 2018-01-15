@@ -46,6 +46,7 @@ A curated list of awesome [Jupyter](http://jupyter.org/) projects, libraries and
 * [ipywidgets](https://github.com/jupyter-widgets/ipywidgets) - IPython widgets for the Jupyter Notebook.
 * [mpld3](http://mpld3.github.io/) - The mpld3 project brings together Matplotlib and D3js.
 * [pythreejs](https://github.com/jovyan/pythreejs) - Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
+* [Qgrid](https://github.com/quantopian/qgrid) - Interactive grid for sorting, filtering, and editing DataFrames in Jupyter notebooks.
 
 ## Rendering/Publishing
 

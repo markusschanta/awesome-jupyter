@@ -1,6 +1,6 @@
 # Awesome Jupyter [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome [Jupyter](http://jupyter.org/) projects, libraries and resources. The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text.
+A curated list of awesome [Jupyter](http://jupyter.org/) projects, libraries and resources. The Jupyter notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text.
 
 <h1 align="center" style="border-bottom: 0px;">
 	<br>
@@ -26,8 +26,8 @@ A curated list of awesome [Jupyter](http://jupyter.org/) projects, libraries and
 
 * [Beaker](http://beakernotebook.com/) - Development environment with seamless data transmission from one language to another.
 * [Helium](https://github.com/nteract/hydrogen) - Run code inline in Atom using Jupyter kernels.
-* [Jupyter Notebook](https://github.com/jupyter/notebook) - The Jupyter Notebook.
-* [JupyterHub](https://github.com/jupyterhub/jupyterhub) - Multi-user server for Jupyter Notebooks.
+* [Jupyter Notebook](https://github.com/jupyter/notebook) - The Jupyter notebook.
+* [JupyterHub](https://github.com/jupyterhub/jupyterhub) - Multi-user server for Jupyter notebooks.
 * [JupyterLab](https://github.com/jupyterlab/jupyterlab) - JupyterLab is the next generation user interface for Project Jupyter.
 * [nteract](https://github.com/nteract/nteract) - Native desktop notebook frontend.
 * [Rodeo](https://www.yhat.com/products/rodeo) - Native Python IDE for Data Science.
@@ -35,15 +35,15 @@ A curated list of awesome [Jupyter](http://jupyter.org/) projects, libraries and
 
 ## Collaboration/Education
 
-* [jupyter-drive](https://github.com/jupyter/jupyter-drive) - Google drive for the Jupyter Notebook.
-* [nbgrader](https://github.com/jupyter/nbgrader) - Assigning and grading of Jupyter Notebooks.
+* [jupyter-drive](https://github.com/jupyter/jupyter-drive) - Google drive for the Jupyter notebook.
+* [nbgrader](https://github.com/jupyter/nbgrader) - Assigning and grading of Jupyter notebooks.
 
 ## Visualization
 
 * [Bokeh](https://bokeh.pydata.org/en/latest/) - Interactive visualization library that targets modern web browsers for presentation.
 * [bqplot](https://github.com/bloomberg/bqplot) - Grammar of Graphics-based interactive plotting framework for the Jupyter notebook.
-* [IPySigma](https://github.com/bsnacks000/IPySigma-Demo) - Prototype network visualization frontend for Jupyter Notebooks.
-* [ipywidgets](https://github.com/jupyter-widgets/ipywidgets) - IPython widgets for the Jupyter Notebook.
+* [IPySigma](https://github.com/bsnacks000/IPySigma-Demo) - Prototype network visualization frontend for Jupyter notebooks.
+* [ipywidgets](https://github.com/jupyter-widgets/ipywidgets) - IPython widgets for the Jupyter notebook.
 * [mpld3](http://mpld3.github.io/) - The mpld3 project brings together Matplotlib and D3js.
 * [pythreejs](https://github.com/jovyan/pythreejs) - Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 * [Qgrid](https://github.com/quantopian/qgrid) - Interactive grid for sorting, filtering, and editing DataFrames in Jupyter notebooks.
@@ -60,7 +60,7 @@ A curated list of awesome [Jupyter](http://jupyter.org/) projects, libraries and
 ## Domain-Specific Projects
 
 * [GenePattern Notebook](http://genepattern-notebook.org/) - Jupyter to communicate with the open source GenePattern environment for integrative genomics analysis.
-* [GeoNotebook](https://github.com/OpenGeoscience/geonotebook) - Extension to the Jupyter Notebook for exploratory geospatial analysis.
+* [GeoNotebook](https://github.com/OpenGeoscience/geonotebook) - Extension to the Jupyter notebook for exploratory geospatial analysis.
 * [Quantopian](https://www.quantopian.com/notebooks/survey) - Jupyter-based platform for financial research.
 
 ## Hosted Notebook Solutions
@@ -73,7 +73,7 @@ A curated list of awesome [Jupyter](http://jupyter.org/) projects, libraries and
 ## Documentation/Resources
 
 * [Zero to JupyterHub](http://zero-to-jupyterhub.readthedocs.io/en/latest/) - Tutorial to help install and manage JupyterHub.
-* [A gallery of interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
+* [A gallery of interesting Jupyter notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
 
 # Contributing
 

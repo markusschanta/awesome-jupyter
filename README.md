@@ -69,6 +69,7 @@ A curated list of awesome [Jupyter](http://jupyter.org/) projects, libraries and
 * [DataScience.com](https://www.datascience.com/)
 * [Domino Data Lab](https://www.dominodatalab.com/)
 * [Google Cloud Datalab](https://cloud.google.com/datalab/)
+* [Anaconda Enterprise](https://www.anaconda.com/enterprise/)
 
 ## Documentation/Resources
 

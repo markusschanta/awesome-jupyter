@@ -25,7 +25,7 @@ A curated list of awesome [Jupyter](http://jupyter.org/) projects, libraries and
 ## Runtimes/Frontends
 
 * [Beaker](http://beakernotebook.com/) - Development environment with seamless data transmission from one language to another.
-* [Helium](https://github.com/nteract/hydrogen) - Run code inline in Atom using Jupyter kernels.
+* [Hydrogen](https://github.com/nteract/hydrogen) - Run code inline in Atom using Jupyter kernels.
 * [Jupyter Notebook](https://github.com/jupyter/notebook) - The Jupyter notebook.
 * [JupyterHub](https://github.com/jupyterhub/jupyterhub) - Multi-user server for Jupyter notebooks.
 * [JupyterLab](https://github.com/jupyterlab/jupyterlab) - JupyterLab is the next generation user interface for Project Jupyter.

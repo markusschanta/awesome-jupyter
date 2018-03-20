@@ -65,7 +65,7 @@ A curated list of awesome [Jupyter](http://jupyter.org/) projects, libraries and
 
 ## Hosted Notebook Solutions
 
-* [CoCalc](https://cocalc.com/) - Collaborative calculation in the cloud.
+* [CoCalc](https://cocalc.com/) - Collaborative calculation in the cloud. Jupyter notebooks with 17 supported kernel types; 971 Python packages, 2639 R packages, 248 Julia libraries. Course management. LaTeX document authoring. Simultaneous document editing. Includes SageMath computer algebra system.
 * [DataScience.com](https://www.datascience.com/)
 * [Domino Data Lab](https://www.dominodatalab.com/)
 * [Google Cloud Datalab](https://cloud.google.com/datalab/)

@@ -96,22 +96,3 @@
   * Looks like an anti-pattern, porting code to a library seems preferable
 * [pypi Jupyter](https://pypi.org/search/?q=Jupyter) - Packages on pypi that match the search term "Jupyter"
   * not a particularly useful way to discover Jupyter packages
-
-# Duplicate
-
-* [Project Jupyter](http://jupyter.org/)
-* [IPython widgets](https://github.com/ipython/ipywidgets)
-* [nbgrader](http://nbgrader.readthedocs.io/) - nbgrader is a tool that facilitates creating and grading assignments in the Jupyter notebook.
-* [nbdime](https://nbdime.readthedocs.io/) - diffing and merging of Jupyter Notebooks.
-* [jupyter-drive](https://github.com/jupyter/jupyter-drive) - Google Drive for Jupyter.
-* [RISE](https://github.com/damianavila/RISE) - "Live" Reveal.js Jupyter/IPython Slideshow Extension.
-* [JupyterLab computational environment](https://github.com/jupyterlab/jupyterlab) - not suitable for general usage yet.
-* [binder](http://mybinder.org/) - turn a GitHub repo into a collection of interactive notebooks.
-* [JupyterHub](https://github.com/jupyterhub/jupyterhub) - multi-user server for Jupyter notebooks.
-* [Zero to JupyterHub](http://zero-to-jupyterhub.readthedocs.io/)
-* [Anaconda Cloud](https://anaconda.org/)
-* [JupyterLab computational environment (BETA)](https://github.com/jupyterlab/jupyterlab)
-* [nteract](https://github.com/nteract/nteract) - literate coding environment that supports several Jupyter kernels
-* [Hydrogen](https://github.com/nteract/hydrogen) - run code inline in Atom using Jupyter kernels
-* [JupyterHub](https://github.com/jupyterhub/jupyterhub) - Multi-user server for Jupyter notebooks
-* [Gallery](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks) of interesting IPython Notebooks.

@@ -14,7 +14,7 @@ A curated list of awesome [Jupyter](http://jupyter.org/) projects, libraries and
     - [Runtimes/Frontends](#runtimesfrontends)
     - [Collaboration/Education](#collaborationeducation)
     - [Visualization](#visualization)
-    - [Rendering/Publishing/Conversion](#renderingpublishing)
+    - [Rendering/Publishing/Conversion](#renderingpublishingconversion)
     - [Testing](#testing)
     - [Domain-Specific Projects](#domain-specific-projects)
     - [Hosted Notebook Solutions](#hosted-notebook-solutions)

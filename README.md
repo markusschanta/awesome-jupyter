@@ -29,7 +29,7 @@ A curated list of awesome [Jupyter](http://jupyter.org/) projects, libraries and
 
 * [Beaker](http://beakernotebook.com/) - Development environment with seamless data transmission from one language to another.
 * [docker-stacks](https://github.com/jupyter/docker-stacks) - Hierarchical stacks of ready-to-run Jupyter applications in Docker.
-* [Helium](https://github.com/nteract/hydrogen) - Run code inline in Atom using Jupyter kernels.
+* [Hydrogen](https://github.com/nteract/hydrogen) - Run code inline in Atom using Jupyter kernels.
 * [Jupyter Notebook](https://github.com/jupyter/notebook) - The Jupyter notebook.
 * [JupyterHub](https://github.com/jupyterhub/jupyterhub) - Multi-user server for Jupyter notebooks.
 * [JupyterLab](https://github.com/jupyterlab/jupyterlab) - JupyterLab is the next generation user interface for Project Jupyter.
@@ -89,7 +89,7 @@ A curated list of awesome [Jupyter](http://jupyter.org/) projects, libraries and
 ## Hosted Notebook Solutions
 
 * [Anaconda Enterprise](https://www.anaconda.com/enterprise/)
-* [CoCalc](https://cocalc.com/) - Collaborative calculation in the cloud.
+* [CoCalc](https://cocalc.com/) - Notebooks with 17 supported kernel types, course management, LaTeX document authoring, simultaneous document editing and integration with the SageMath computer algebra system.
 * [DataScience.com](https://www.datascience.com/)
 * [Domino Data Lab](https://www.dominodatalab.com/)
 * [Google Cloud Datalab](https://cloud.google.com/datalab/)

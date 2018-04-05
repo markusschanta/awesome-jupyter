@@ -1,4 +1,6 @@
-# Not so awesome
+# Awesome-ish
+
+This file contains a list of resources that were suggested but didn't quite make the cut. If you feel that one of these should be included, please [open an issue](https://github.com/markusschanta/awesome-jupyter/issues/new) and explain why you think so. Thanks!
 
 * [The World of Jupyter — a Tutorial](https://github.com/barbagroup/jupyter-tutorial)
   * A bit dated

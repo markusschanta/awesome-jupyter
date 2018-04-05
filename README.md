@@ -25,18 +25,24 @@ A curated list of awesome [Jupyter](http://jupyter.org/) projects, libraries and
 ## Runtimes/Frontends
 
 * [Beaker](http://beakernotebook.com/) - Development environment with seamless data transmission from one language to another.
+* [docker-stacks](https://github.com/jupyter/docker-stacks) - Hierarchical stacks of ready-to-run Jupyter applications in Docker.
 * [Helium](https://github.com/nteract/hydrogen) - Run code inline in Atom using Jupyter kernels.
 * [Jupyter Notebook](https://github.com/jupyter/notebook) - The Jupyter notebook.
 * [JupyterHub](https://github.com/jupyterhub/jupyterhub) - Multi-user server for Jupyter notebooks.
 * [JupyterLab](https://github.com/jupyterlab/jupyterlab) - JupyterLab is the next generation user interface for Project Jupyter.
+* [kaggle/docker-python](https://github.com/kaggle/docker-python) - Kaggle Python docker image that includes datasets and packages.
 * [nteract](https://github.com/nteract/nteract) - Native desktop notebook frontend.
 * [Rodeo](https://www.yhat.com/products/rodeo) - Native Python IDE for Data Science.
 * [Stencila](https://github.com/stencila/stencila) - Native desktop notebook frontend.
 
 ## Collaboration/Education
 
+* [IPythonBlocks](https://github.com/jiffyclub/ipythonblocks) - Practice Python with colored grids in Jupyer.
 * [jupyter-drive](https://github.com/jupyter/jupyter-drive) - Google drive for the Jupyter notebook.
+* [LTI Launch JupyterHub Authenticator](https://github.com/jupyterhub/ltiauthenticator) - Authentication via Edx.
+* [nbautoeval](https://github.com/parmentelat/nbautoeval) - Create auto-evaluated exercises.
 * [nbgrader](https://github.com/jupyter/nbgrader) - Assigning and grading of Jupyter notebooks.
+* [nbtutor](https://github.com/lgpage/nbtutor) - Visualize Python code execution (line-by-line).
 
 ## Visualization
 
@@ -48,33 +54,73 @@ A curated list of awesome [Jupyter](http://jupyter.org/) projects, libraries and
 * [pythreejs](https://github.com/jovyan/pythreejs) - Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 * [Qgrid](https://github.com/quantopian/qgrid) - Interactive grid for sorting, filtering, and editing DataFrames in Jupyter notebooks.
 
-## Rendering/Publishing
+## Rendering/Publishing/Conversion
 
 * [Binder](http://mybinder.org/) - Turn a GitHub repo into a collection of interactive notebooks.
 * [Bookbook](https://github.com/takluyver/bookbook) - Bookbook converts a set of notebooks in a directory to HTML or PDF, preserving cross references within and between notebooks.
+* [nbconvert](https://nbconvert.readthedocs.io/) - Convert Notebooks to other formats.
 * [nbdime](https://github.com/jupyter/nbdime) - Tools for diffing and merging of Jupyter notebooks.
+* [nbinteract](https://www.nbinteract.com/) - create interactive webpages from Jupyter notebooks.
+* [nbscan](https://github.com/conery/nbscan) - Search for and print cells contents of Jupyter notebooks.
 * [Nikola](https://getnikola.com/) - Static Site Generator that converts notebooks into websites.
+* [notedown](https://github.com/aaren/notedown/) - Convert Jupyter notebooks to markdown (and back).
 * [Papermill](https://github.com/nteract/papermill) - Tool for parameterizing, executing, and analyzing Jupyter notebooks.
+* [pynb](https://github.com/minodes/pynb) - Jupyter Notebooks as plain Python code with embedded Markdown text.
 * [RISE](https://github.com/damianavila/RISE) - Reveal.js Jupyter/IPython Slideshow.
+* [rst2ipynb](https://github.com/nthiery/rst-to-ipynb) - convert standalone reStructuredText files to Jupyter notebook file.
+
+## Testing
+
+* [nbval](https://github.com/computationalmodelling/nbval) - Py.test plugin for validating Jupyter notebooks.
+* [sphinxcontrib-jupyter](https://github.com/QuantEcon/sphinxcontrib-jupyter) - Sphinx Extension for Generating Jupyter Notebooks.
+* [nosebook](https://github.com/bollwyvl/nosebook) - Nose plugin for finding and running IPython notebooks as nose tests.
 
 ## Domain-Specific Projects
 
 * [GenePattern Notebook](http://genepattern-notebook.org/) - Jupyter to communicate with the open source GenePattern environment for integrative genomics analysis.
 * [GeoNotebook](https://github.com/OpenGeoscience/geonotebook) - Extension to the Jupyter notebook for exploratory geospatial analysis.
+* [lolviz](https://github.com/parrt/lolviz) - data-structure visualization tool for lists of lists, lists, dictionaries.
 * [Quantopian](https://www.quantopian.com/notebooks/survey) - Jupyter-based platform for financial research.
+* [vpython-jupyter](https://github.com/BruceSherwood/vpython-jupyter) - VPython 3D engine running in a Jupyter notebook.
 
 ## Hosted Notebook Solutions
 
+* [Anaconda Enterprise](https://www.anaconda.com/enterprise/)
 * [CoCalc](https://cocalc.com/) - Collaborative calculation in the cloud.
 * [DataScience.com](https://www.datascience.com/)
 * [Domino Data Lab](https://www.dominodatalab.com/)
 * [Google Cloud Datalab](https://cloud.google.com/datalab/)
-* [Anaconda Enterprise](https://www.anaconda.com/enterprise/)
+* [Google Colaboratory](https://research.google.com/colaboratory/unregistered.html) - Jupyter environment that requires in the cloud aimed at machine learning education and research.
+* [Gryd](https://gryd.us/) - Simple, managed, ready-to-use, cloud based Jupyter notebooks supporting multiple languages.
 
-## Documentation/Resources
+## Official Resources and Documentation
 
+* [JupyterLab Documentation](http://jupyterlab.readthedocs.io/en/stable/index.html)
+* [Jupyter kernels](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels) - List of all programming languages available as Jupyter kernels
+* [Making kernels for Jupyter](https://jupyter-client.readthedocs.io/en/latest/kernels.html)
+* [Try Jupyter](https://try.jupyter.org/) - Try Jupyter in your browser.
+
+## Community Resources
+
+* Gitter - [Jupyter Gitter Chatroom](https://gitter.im/jupyter/jupyter)
+* Mailing Lists - [Jupyter General Mailing List](https://groups.google.com/forum/#!forum/jupyter), [Jupyter in Education Mailing List](https://groups.google.com/forum/#!forum/jupyter-education)
+* Reddit - Subreddits: [r/IPython](https://www.reddit.com/r/IPython/), [r/Jupyter/](https://www.reddit.com/r/Jupyter/)
+* Stackoverflow - Tags: [jupyter](https://stackoverflow.com/questions/tagged/jupyter), [jupyter-notebook](https://stackoverflow.com/questions/tagged/jupyter-notebook)
+
+## Articles/Guides/Tutorials
+
+* [Exploratory computing with Python](http://mbakker7.github.io/exploratory_computing_with_python/) - A collection of notebooks covering scientific computing
+* [Gallery of Jupyter notebooks I](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
+* [Gallery of Jupyter notebooks II](http://nb.bianp.net/sort/views/)
+* [Install and run a Jupyter notebook in a Google Cloud Dataproc cluster](https://cloud.google.com/dataproc/docs/tutorials/jupyter-notebook)
+* [Interactive Web Plotting with Bokeh](https://github.com/bokeh/bokeh-notebooks)
+* [Jupyter Notebook Extensions](http://jupyter-contrib-nbextensions.readthedocs.io)
+* [Jupyter Notebook Themes](https://github.com/dunovank/jupyter-themes)
+* [Jupyter tips, tricks and shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
+* [Lectures on scientific computing with Python](https://github.com/jrjohansson/scientific-python-lectures)
+* [pytudes](https://github.com/norvig/pytudes) - List of Jupyter Notebooks by Peter Norvig.
+* [ResGuides: research with Jupyter](https://www.gitbook.com/book/dansand/resguides-research-with-jupyter/details)
 * [Zero to JupyterHub](http://zero-to-jupyterhub.readthedocs.io/en/latest/) - Tutorial to help install and manage JupyterHub.
-* [A gallery of interesting Jupyter notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
 
 # Contributing
 

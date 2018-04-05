@@ -53,6 +53,7 @@ A curated list of awesome [Jupyter](http://jupyter.org/) projects, libraries and
 * [bqplot](https://github.com/bloomberg/bqplot) - Grammar of Graphics-based interactive plotting framework for the Jupyter notebook.
 * [IPySigma](https://github.com/bsnacks000/IPySigma-Demo) - Prototype network visualization frontend for Jupyter notebooks.
 * [ipywidgets](https://github.com/jupyter-widgets/ipywidgets) - IPython widgets for the Jupyter notebook.
+* [jupyterlab_voyager](https://github.com/altair-viz/jupyterlab_voyager) - Extension to view CSV and JSON data in [Voyager](http://vega.github.io/voyager/).
 * [mpld3](http://mpld3.github.io/) - The mpld3 project brings together Matplotlib and D3js.
 * [pythreejs](https://github.com/jovyan/pythreejs) - Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 * [Qgrid](https://github.com/quantopian/qgrid) - Interactive grid for sorting, filtering, and editing DataFrames in Jupyter notebooks.

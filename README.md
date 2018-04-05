@@ -119,6 +119,7 @@ A curated list of awesome [Jupyter](http://jupyter.org/) projects, libraries and
 * [Gallery of Jupyter notebooks II](http://nb.bianp.net/sort/views/)
 * [Install and run a Jupyter notebook in a Google Cloud Dataproc cluster](https://cloud.google.com/dataproc/docs/tutorials/jupyter-notebook)
 * [Interactive Web Plotting with Bokeh](https://github.com/bokeh/bokeh-notebooks)
+* [JupyterLab - Your Personal Data Science Workbench](https://github.com/markusschanta/talks/tree/master/2018-03%20-%20JupyterLab%20-%20Full%20Stack%20Quants) - Talk about JupyterLab at Full Stack Quants London.
 * [Jupyter Notebook Extensions](http://jupyter-contrib-nbextensions.readthedocs.io)
 * [Jupyter Notebook Themes](https://github.com/dunovank/jupyter-themes)
 * [Jupyter tips, tricks and shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)

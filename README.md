@@ -97,6 +97,7 @@ A curated list of awesome [Jupyter](http://jupyter.org/) projects, libraries and
 * [Google Cloud Datalab](https://cloud.google.com/datalab/)
 * [Google Colaboratory](https://research.google.com/colaboratory/unregistered.html) - Jupyter environment that requires in the cloud aimed at machine learning education and research.
 * [Gryd](https://gryd.us/) - Simple, managed, ready-to-use, cloud based Jupyter notebooks supporting multiple languages.
+* [PAWS](https://wikitech.wikimedia.org/wiki/PAWS) - Wikimedia solution to freely start a multi-user notebook server, with token autentication.
 
 ## Official Resources and Documentation
 

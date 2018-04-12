@@ -97,12 +97,12 @@ A curated list of awesome [Jupyter](http://jupyter.org/) projects, libraries and
 * [Google Cloud Datalab](https://cloud.google.com/datalab/)
 * [Google Colaboratory](https://research.google.com/colaboratory/unregistered.html) - Jupyter environment that requires in the cloud aimed at machine learning education and research.
 * [Gryd](https://gryd.us/) - Simple, managed, ready-to-use, cloud based Jupyter notebooks supporting multiple languages.
-* [PAWS](https://wikitech.wikimedia.org/wiki/PAWS) - Jupyter notebook deployment customized for interacting with Wikimedia wikis
+* [PAWS](https://wikitech.wikimedia.org/wiki/PAWS) - Jupyter notebook deployment customized for interacting with Wikimedia wikis.
 
 ## Official Resources and Documentation
 
 * [JupyterLab Documentation](http://jupyterlab.readthedocs.io/en/stable/index.html)
-* [Jupyter kernels](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels) - List of all programming languages available as Jupyter kernels
+* [Jupyter kernels](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels) - List of all programming languages available as Jupyter kernels.
 * [Making kernels for Jupyter](https://jupyter-client.readthedocs.io/en/latest/kernels.html)
 * [Try Jupyter](https://try.jupyter.org/) - Try Jupyter in your browser.
 
@@ -115,7 +115,7 @@ A curated list of awesome [Jupyter](http://jupyter.org/) projects, libraries and
 
 ## Articles/Guides/Tutorials
 
-* [Exploratory computing with Python](http://mbakker7.github.io/exploratory_computing_with_python/) - A collection of notebooks covering scientific computing
+* [Exploratory computing with Python](http://mbakker7.github.io/exploratory_computing_with_python/) - Collection of notebooks covering scientific computing.
 * [Gallery of Jupyter notebooks I](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
 * [Gallery of Jupyter notebooks II](http://nb.bianp.net/sort/views/)
 * [Install and run a Jupyter notebook in a Google Cloud Dataproc cluster](https://cloud.google.com/dataproc/docs/tutorials/jupyter-notebook)

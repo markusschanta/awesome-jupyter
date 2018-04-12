@@ -66,6 +66,7 @@ A curated list of awesome [Jupyter](http://jupyter.org/) projects, libraries and
 * [nbconvert](https://nbconvert.readthedocs.io/) - Convert Notebooks to other formats.
 * [nbdime](https://github.com/jupyter/nbdime) - Tools for diffing and merging of Jupyter notebooks.
 * [nbinteract](https://www.nbinteract.com/) - create interactive webpages from Jupyter notebooks.
+* [nbflow](https://github.com/jhamrick/nbflow) - A tool that supports one-button reproducible workflows with the Jupyter Notebook and Scons
 * [nbscan](https://github.com/conery/nbscan) - Search for and print cells contents of Jupyter notebooks.
 * [Nikola](https://getnikola.com/) - Static Site Generator that converts notebooks into websites.
 * [notedown](https://github.com/aaren/notedown/) - Convert Jupyter notebooks to markdown (and back).

@@ -91,7 +91,7 @@ A curated list of awesome [Jupyter](http://jupyter.org/) projects, libraries and
 ## Hosted Notebook Solutions
 
 * [Anaconda Enterprise](https://www.anaconda.com/enterprise/)
-* [Azure Notebooks](https://notebooks.azure.com/) - Provides free online access to Jupyter notebooks running in the cloud on Microsoft Azure
+* [Azure Notebooks](https://notebooks.azure.com/) - Jupyter notebooks running in the cloud on Microsoft Azure.
 * [CoCalc](https://cocalc.com/) - Notebooks with 17 supported kernel types, course management, LaTeX document authoring, simultaneous document editing and integration with the SageMath computer algebra system.
 * [DataScience.com](https://www.datascience.com/)
 * [Domino Data Lab](https://www.dominodatalab.com/)

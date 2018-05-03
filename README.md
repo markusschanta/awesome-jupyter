@@ -1,6 +1,6 @@
 # Awesome Jupyter [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=A%20curated%20list%20of%20awesome%20Jupyter%20projects,%20libraries%20and%20resources&url=https://github.com/markusschanta/awesome-jupyter&via=markusschanta&hashtags=jupyter,python,datascience,bigdata,machinelearning)
 
-A curated list of awesome [Jupyter](http://jupyter.org/) projects, libraries and resources. The Jupyter notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text.
+A curated list of awesome [Jupyter](http://jupyter.org/) projects, libraries and resources. Jupyter is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text.
 
 <h1 align="center" style="border-bottom: 0px;">
 	<br>
@@ -32,7 +32,7 @@ A curated list of awesome [Jupyter](http://jupyter.org/) projects, libraries and
 * [Beaker](http://beakernotebook.com/) - Development environment with seamless data transmission from one language to another.
 * [docker-stacks](https://github.com/jupyter/docker-stacks) - Hierarchical stacks of ready-to-run Jupyter applications in Docker.
 * [Hydrogen](https://github.com/nteract/hydrogen) - Run code inline in Atom using Jupyter kernels.
-* [Jupyter Notebook](https://github.com/jupyter/notebook) - The Jupyter notebook.
+* [Jupyter Notebook](https://github.com/jupyter/notebook) - The main Jupyter notebook repository.
 * [JupyterHub](https://github.com/jupyterhub/jupyterhub) - Multi-user server for Jupyter notebooks.
 * [JupyterLab](https://github.com/jupyterlab/jupyterlab) - JupyterLab is the next generation user interface for Project Jupyter.
 * [kaggle/docker-python](https://github.com/kaggle/docker-python) - Kaggle Python docker image that includes datasets and packages.
@@ -43,7 +43,7 @@ A curated list of awesome [Jupyter](http://jupyter.org/) projects, libraries and
 ## Collaboration/Education
 
 * [IPythonBlocks](https://github.com/jiffyclub/ipythonblocks) - Practice Python with colored grids in Jupyer.
-* [jupyter-drive](https://github.com/jupyter/jupyter-drive) - Google drive for the Jupyter notebook.
+* [jupyter-drive](https://github.com/jupyter/jupyter-drive) - Google drive for Jupyter.
 * [jupyter-viewer-xblock](https://github.com/ibleducation/jupyter-viewer-xblock) - Fetch and display part of, or an entire Jupyter Notebook in an Open edX XBlock.
 * [LTI Launch JupyterHub Authenticator](https://github.com/jupyterhub/ltiauthenticator) - Authentication via Edx.
 * [nbautoeval](https://github.com/parmentelat/nbautoeval) - Create auto-evaluated exercises.
@@ -54,11 +54,11 @@ A curated list of awesome [Jupyter](http://jupyter.org/) projects, libraries and
 
 * [Altair](https://github.com/altair-viz/altair) - Declarative visualization library for Python, based on [Vega](http://vega.github.io/vega) and [Vega-Lite](https://github.com/vega/vega-lite).
 * [Bokeh](https://bokeh.pydata.org/en/latest/) - Interactive visualization library that targets modern web browsers for presentation.
-* [bqplot](https://github.com/bloomberg/bqplot) - Grammar of Graphics-based interactive plotting framework for the Jupyter notebook.
+* [bqplot](https://github.com/bloomberg/bqplot) - Grammar of Graphics-based interactive plotting framework for Jupyter.
 * [IPySigma](https://github.com/bsnacks000/IPySigma-Demo) - Prototype network visualization frontend for Jupyter notebooks.
-* [ipywidgets](https://github.com/jupyter-widgets/ipywidgets) - IPython widgets for the Jupyter notebook.
+* [ipywidgets](https://github.com/jupyter-widgets/ipywidgets) - UI widgets for Jupyter.
 * [jupyterlab_voyager](https://github.com/altair-viz/jupyterlab_voyager) - Extension to view CSV and JSON data in [Voyager](http://vega.github.io/voyager/).
-* [mpld3](http://mpld3.github.io/) - The mpld3 project brings together Matplotlib and D3js.
+* [mpld3](http://mpld3.github.io/) - Combining Matplotlib and D3js vor interactive data visualizations.
 * [pythreejs](https://github.com/jovyan/pythreejs) - Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 * [Qgrid](https://github.com/quantopian/qgrid) - Interactive grid for sorting, filtering, and editing DataFrames in Jupyter notebooks.
 
@@ -87,7 +87,7 @@ A curated list of awesome [Jupyter](http://jupyter.org/) projects, libraries and
 ## Domain-Specific Projects
 
 * [GenePattern Notebook](http://genepattern-notebook.org/) - Jupyter to communicate with the open source GenePattern environment for integrative genomics analysis.
-* [GeoNotebook](https://github.com/OpenGeoscience/geonotebook) - Extension to the Jupyter notebook for exploratory geospatial analysis.
+* [GeoNotebook](https://github.com/OpenGeoscience/geonotebook) - Extension for exploratory geospatial analysis.
 * [lolviz](https://github.com/parrt/lolviz) - data-structure visualization tool for lists of lists, lists, dictionaries.
 * [Quantopian](https://www.quantopian.com/notebooks/survey) - Jupyter-based platform for financial research.
 * [vpython-jupyter](https://github.com/BruceSherwood/vpython-jupyter) - VPython 3D engine running in a Jupyter notebook.
@@ -100,7 +100,7 @@ A curated list of awesome [Jupyter](http://jupyter.org/) projects, libraries and
 * [DataScience.com](https://www.datascience.com/)
 * [Domino Data Lab](https://www.dominodatalab.com/)
 * [Google Cloud Datalab](https://cloud.google.com/datalab/)
-* [Google Colaboratory](https://research.google.com/colaboratory/unregistered.html) - Jupyter environment that requires in the cloud aimed at machine learning education and research.
+* [Google Colaboratory](https://research.google.com/colaboratory/unregistered.html) - Cloud-based Jupyter environment aimed at machine learning education and research.
 * [Gryd](https://gryd.us/) - Simple, managed, ready-to-use, cloud based Jupyter notebooks supporting multiple languages.
 * [PAWS](https://wikitech.wikimedia.org/wiki/PAWS) - Jupyter notebook deployment customized for interacting with Wikimedia wikis.
 

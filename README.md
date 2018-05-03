@@ -10,6 +10,8 @@ A curated list of awesome [Jupyter](http://jupyter.org/) projects, libraries and
 </h1>
 <br>
 
+## Contents
+
 - [Awesome Jupyter](#awesome-jupyter)
     - [Runtimes/Frontends](#runtimesfrontends)
     - [Collaboration/Education](#collaborationeducation)

@@ -97,9 +97,9 @@ A curated list of awesome [Jupyter](http://jupyter.org/) projects, libraries and
 * [Anaconda Enterprise](https://www.anaconda.com/enterprise/)
 * [Azure Notebooks](https://notebooks.azure.com/) - Jupyter notebooks running in the cloud on Microsoft Azure.
 * [CoCalc](https://cocalc.com/) - Notebooks with 17 supported kernel types, course management, LaTeX document authoring, simultaneous document editing and integration with the SageMath computer algebra system.
-* [DataScience.com](https://www.datascience.com/)
-* [Domino Data Lab](https://www.dominodatalab.com/)
-* [Google Cloud Datalab](https://cloud.google.com/datalab/)
+* [DataScience.com](https://www.datascience.com/) - Platform for enterprise data science.
+* [Domino Data Lab](https://www.dominodatalab.com/) - Data science platform with integrated collaboration tools, environment management and compute grid.
+* [Google Cloud Datalab](https://cloud.google.com/datalab/) - Notebook platform integrated with the Google Cloud stack.
 * [Google Colaboratory](https://research.google.com/colaboratory/unregistered.html) - Cloud-based Jupyter environment aimed at machine learning education and research.
 * [Gryd](https://gryd.us/) - Simple, managed, ready-to-use, cloud based Jupyter notebooks supporting multiple languages.
 * [PAWS](https://wikitech.wikimedia.org/wiki/PAWS) - Jupyter notebook deployment customized for interacting with Wikimedia wikis.

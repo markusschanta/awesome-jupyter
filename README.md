@@ -32,9 +32,9 @@ A curated list of awesome [Jupyter](http://jupyter.org/) projects, libraries and
 * [Beaker](http://beakernotebook.com/) - Development environment with seamless data transmission from one language to another.
 * [docker-stacks](https://github.com/jupyter/docker-stacks) - Hierarchical stacks of ready-to-run Jupyter applications in Docker.
 * [Hydrogen](https://github.com/nteract/hydrogen) - Run code inline in Atom using Jupyter kernels.
-* [Jupyter Notebook](https://github.com/jupyter/notebook) - The main Jupyter notebook repository.
-* [JupyterHub](https://github.com/jupyterhub/jupyterhub) - Multi-user server for Jupyter notebooks.
-* [JupyterLab](https://github.com/jupyterlab/jupyterlab) - JupyterLab is the next generation user interface for Project Jupyter.
+* [Jupyter Notebook](https://github.com/jupyter/notebook) - Main Jupyter notebook runtime.
+* [JupyterHub](https://github.com/jupyterhub/jupyterhub) - Multi-user server for Jupyter.
+* [JupyterLab](https://github.com/jupyterlab/jupyterlab) - JupyterLab is the next generation user interface for Jupyter.
 * [kaggle/docker-python](https://github.com/kaggle/docker-python) - Kaggle Python docker image that includes datasets and packages.
 * [nteract](https://github.com/nteract/nteract) - Native desktop notebook frontend.
 * [Rodeo](https://www.yhat.com/products/rodeo) - Native Python IDE for Data Science.
@@ -68,7 +68,7 @@ A curated list of awesome [Jupyter](http://jupyter.org/) projects, libraries and
 * [Bookbook](https://github.com/takluyver/bookbook) - Bookbook converts a set of notebooks in a directory to HTML or PDF, preserving cross references within and between notebooks.
 * [nbconvert](https://nbconvert.readthedocs.io/) - Convert Notebooks to other formats.
 * [nbdime](https://github.com/jupyter/nbdime) - Tools for diffing and merging of Jupyter notebooks.
-* [nbinteract](https://www.nbinteract.com/) - create interactive webpages from Jupyter notebooks.
+* [nbinteract](https://www.nbinteract.com/) - Create interactive webpages from Jupyter notebooks.
 * [nbflow](https://github.com/jhamrick/nbflow) - One-button reproducible workflows with Jupyter and Scons.
 * [nbscan](https://github.com/conery/nbscan) - Search for and print cells contents of Jupyter notebooks.
 * [Nikola](https://getnikola.com/) - Static Site Generator that converts notebooks into websites.
@@ -86,10 +86,10 @@ A curated list of awesome [Jupyter](http://jupyter.org/) projects, libraries and
 
 ## Domain-Specific Projects
 
-* [GenePattern Notebook](http://genepattern-notebook.org/) - Jupyter to communicate with the open source GenePattern environment for integrative genomics analysis.
+* [GenePattern Notebook](http://genepattern-notebook.org/) - Integrating Genomic Analysis with Interactive Notebooks.
 * [GeoNotebook](https://github.com/OpenGeoscience/geonotebook) - Extension for exploratory geospatial analysis.
-* [lolviz](https://github.com/parrt/lolviz) - data-structure visualization tool for lists of lists, lists, dictionaries.
-* [Quantopian](https://www.quantopian.com/notebooks/survey) - Jupyter-based platform for financial research.
+* [lolviz](https://github.com/parrt/lolviz) - Data-structure visualization tool for lists of lists, lists, dictionaries.
+* [Quantopian Notebooks](https://www.quantopian.com/notebooks/survey) - Jupyter-based platform for financial research.
 * [vpython-jupyter](https://github.com/BruceSherwood/vpython-jupyter) - VPython 3D engine running in a Jupyter notebook.
 
 ## Hosted Notebook Solutions

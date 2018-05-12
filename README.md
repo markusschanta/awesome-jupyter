@@ -44,7 +44,6 @@ A curated list of awesome [Jupyter](http://jupyter.org/) projects, libraries and
 
 * [IPythonBlocks](https://github.com/jiffyclub/ipythonblocks) - Practice Python with colored grids in Jupyer.
 * [jupyter-drive](https://github.com/jupyter/jupyter-drive) - Google drive for Jupyter.
-* [jupyter-map](https://elc.github.io/jupyter-map/) - A map with all the institutions using Jupyter.
 * [jupyter-viewer-xblock](https://github.com/ibleducation/jupyter-viewer-xblock) - Fetch and display part of, or an entire Jupyter Notebook in an Open edX XBlock.
 * [LTI Launch JupyterHub Authenticator](https://github.com/jupyterhub/ltiauthenticator) - Authentication via Edx.
 * [nbautoeval](https://github.com/parmentelat/nbautoeval) - Create auto-evaluated exercises.
@@ -115,6 +114,7 @@ A curated list of awesome [Jupyter](http://jupyter.org/) projects, libraries and
 ## Community Resources
 
 * Conference Talks - [PyVideo.org](http://pyvideo.org/search.html?q=jupyter), [JupyterCon](https://www.youtube.com/playlist?list=PL055Epbe6d5aP6Ru42r7hk68GTSaclYgi)
+* [jupyter-map](https://elc.github.io/jupyter-map/) - Map of university institutions that use Jupyter.
 * Gitter - [Jupyter Gitter Chatroom](https://gitter.im/jupyter/jupyter)
 * Mailing Lists - [Jupyter General Mailing List](https://groups.google.com/forum/#!forum/jupyter), [Jupyter in Education Mailing List](https://groups.google.com/forum/#!forum/jupyter-education)
 * Reddit - Subreddits: [r/IPython](https://www.reddit.com/r/IPython/), [r/Jupyter/](https://www.reddit.com/r/Jupyter/)

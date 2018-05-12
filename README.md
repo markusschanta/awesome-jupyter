@@ -44,6 +44,7 @@ A curated list of awesome [Jupyter](http://jupyter.org/) projects, libraries and
 
 * [IPythonBlocks](https://github.com/jiffyclub/ipythonblocks) - Practice Python with colored grids in Jupyer.
 * [jupyter-drive](https://github.com/jupyter/jupyter-drive) - Google drive for Jupyter.
+* [jupyter-map](https://elc.github.io/jupyter-map/) - A map with all the institutions using Jupyter.
 * [jupyter-viewer-xblock](https://github.com/ibleducation/jupyter-viewer-xblock) - Fetch and display part of, or an entire Jupyter Notebook in an Open edX XBlock.
 * [LTI Launch JupyterHub Authenticator](https://github.com/jupyterhub/ltiauthenticator) - Authentication via Edx.
 * [nbautoeval](https://github.com/parmentelat/nbautoeval) - Create auto-evaluated exercises.

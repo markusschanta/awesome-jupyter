@@ -114,6 +114,7 @@ A curated list of awesome [Jupyter](http://jupyter.org/) projects, libraries and
 ## Community Resources
 
 * Conference Talks - [PyVideo.org](http://pyvideo.org/search.html?q=jupyter), [JupyterCon](https://www.youtube.com/playlist?list=PL055Epbe6d5aP6Ru42r7hk68GTSaclYgi)
+* [jupyter-map](https://elc.github.io/jupyter-map/) - Map of university institutions that use Jupyter.
 * Gitter - [Jupyter Gitter Chatroom](https://gitter.im/jupyter/jupyter)
 * Mailing Lists - [Jupyter General Mailing List](https://groups.google.com/forum/#!forum/jupyter), [Jupyter in Education Mailing List](https://groups.google.com/forum/#!forum/jupyter-education)
 * Reddit - Subreddits: [r/IPython](https://www.reddit.com/r/IPython/), [r/Jupyter/](https://www.reddit.com/r/Jupyter/)

@@ -42,6 +42,7 @@ A curated list of awesome [Jupyter](http://jupyter.org/) projects, libraries and
 
 ## Collaboration/Education
 
+* [callgraph](https://github.com/osteele/callgraph) - Magic to display a function call graph.
 * [IPythonBlocks](https://github.com/jiffyclub/ipythonblocks) - Practice Python with colored grids in Jupyer.
 * [jupyter-drive](https://github.com/jupyter/jupyter-drive) - Google drive for Jupyter.
 * [jupyter-viewer-xblock](https://github.com/ibleducation/jupyter-viewer-xblock) - Fetch and display part of, or an entire Jupyter Notebook in an Open edX XBlock.

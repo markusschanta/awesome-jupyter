@@ -8,7 +8,7 @@ Please ensure your pull request adheres to the following guidelines:
 * Make sure the project is useful before submitting.
 * Make an individual pull request for each suggestion.
 * Use title-casing (AP style).
-* Use the following format: ```[Project Name](Link)```
+* Use the following format: `[Project Name](Link)`
 * Link additions should be added to the correct alphabetical position of the relevant category.
 * New categories or improvements to the existing categorization are welcome.
 * Check your spelling and grammar.

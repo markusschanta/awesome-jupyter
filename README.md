@@ -1,4 +1,4 @@
-# Awesome Jupyter [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=A%20curated%20list%20of%20awesome%20Jupyter%20projects,%20libraries%20and%20resources&url=https://github.com/markusschanta/awesome-jupyter&via=markusschanta&hashtags=jupyter,python,datascience,bigdata,machinelearning)
+# Awesome Jupyter [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome [Jupyter](http://jupyter.org/) projects, libraries and resources. Jupyter is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text.
 

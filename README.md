@@ -13,6 +13,7 @@ A curated list of awesome [Jupyter](http://jupyter.org/) projects, libraries and
 ## Contents
 
 - [Awesome Jupyter](#awesome-jupyter)
+
     - [Runtimes/Frontends](#runtimesfrontends)
     - [Collaboration/Education](#collaborationeducation)
     - [Visualization](#visualization)
@@ -23,9 +24,13 @@ A curated list of awesome [Jupyter](http://jupyter.org/) projects, libraries and
     - [Official Resources and Documentation](#official-resources-and-documentation)
     - [Community Resources](#community-resources)
     - [Articles/Guides/Tutorials](#articlesguidestutorials)
+    - [Jupyter Notebook, JupyterHub, JupyterLab](#jupyter-notebook-jupyterhub-jupyterlab)
+      - [Framework :: Jupyter](#framework--jupyter)
+      - [Jupyter GitHub Topics](#jupyter-github-topics)
 - [Contributing](#contributing)
 
 - - -
+
 
 ## Runtimes/Frontends
 
@@ -136,6 +141,78 @@ A curated list of awesome [Jupyter](http://jupyter.org/) projects, libraries and
 * [pytudes](https://github.com/norvig/pytudes) - List of Jupyter Notebooks by Peter Norvig.
 * [ResGuides: research with Jupyter](https://www.gitbook.com/book/dansand/resguides-research-with-jupyter/details)
 * [Zero to JupyterHub](http://zero-to-jupyterhub.readthedocs.io/en/latest/) - Tutorial to help install and manage JupyterHub.
+
+## Jupyter Notebook, JupyterHub, JupyterLab
+- Jupyter Organization
+  -
+  - Homepage: https://jupyter.org/
+  - Homepage: https://jupyter.github.io/
+  - Community: https://jupyter.org/community
+    - Help: https://github.com/jupyter/help
+    - Mailing List: https://groups.google.com/forum/#!forum/jupyter
+    - Mailing List: https://groups.google.com/forum/#!forum/jupyter-education
+    - Mailing List: https://groups.google.com/forum/?pli=1#!forum/jupyter-research-facilities
+    - Chat: https://gitter.im/jupyter/jupyter
+    - Q&A: http://stackoverflow.com/questions/tagged/jupyter
+  - Source: https://github.com/jupyter
+  - Docs: https://jupyter.org/documentation
+  - Docs: **https://jupyter.readthedocs.io/en/stable/**
+  - Jupyter Governance
+    https://github.com/jupyter/governance
+    - JEP: Jupyter Enhancement Proposal
+      - https://github.com/jupyter/enhancement-proposals
+  - Blog: https://blog.jupyter.org/
+  - Twitter: [@ProjectJupyter](https://twitter.com/ProjectJupyter)
+- Jupyter Notebook
+  -
+  - Source: https://github.com/jupyter/notebook
+  - Docs: https://jupyter-notebook.readthedocs.io/en/stable/
+  - https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks
+- IPython
+  -
+  - Source: https://github.com/ipython
+  - Source: https://github.com/ipython/ipython
+  - Docs: http://github.com/ipython/ipython/wiki
+  - IPEP: IPython Enhancement Proposal
+    https://github.com/ipython/ipython/wiki/IPEPs:-IPython-Enhancement-Proposals
+- JupyterHub
+  -
+  - Source: https://github.com/jupyterhub
+  - Source: https://github.com/jupyterhub/jupyterhub
+  - Docs: https://jupyterhub.readthedocs.io/en/stable/
+  - Docs: https://github.com/jupyterhub/jupyterhub/wiki
+    - JupyterHub Authenticators: https://github.com/jupyterhub/jupyterhub/wiki/Authenticators
+    - JupyterHub Spawners: https://github.com/jupyterhub/jupyterhub/wiki/Spawners
+  - https://zero-to-jupyterhub.readthedocs.io/en/latest/ (with Kubernetes)
+- BinderHub
+  -
+  - https://mybinder.org/
+  - Source: https://github.com/jupyterhub/binderhub
+  - Source: https://github.com/jupyter/repo2docker
+  - Docs: https://binderhub.readthedocs.io/en/latest/
+  - Docs: https://repo2docker.readthedocs.io/en/latest/usage.html
+- JupyterLab
+  -
+  - Source: https://github.com/jupyterlab
+  - Source: https://github.com/jupyterlab/jupyterlab
+  - Docs: https://jupyterlab.readthedocs.io/en/stable/
+  - Docs: https://jupyter.org/documentation
+
+### Framework :: Jupyter
+[``Framework :: Jupyter``](https://pypi.org/search/?&c=Framework+%3A%3A+Jupyter)
+is the PyPI trove classifier for Jupyter projects.
+
+### Jupyter GitHub Topics
+- [ipython](https://github.com/topics/ipython)
+- [jupyter](https://github.com/topics/jupyter)
+- [jupyter-notebook](https://github.com/topics/jupyter-notebook)
+- [jupyter-kernels](https://github.com/topics/jupyter-kernels)
+- [jupyter-extension](https://github.com/topics/jupyter-extension)
+- [jupyterhub](https://github.com/topics/jupyterhub)
+- [jupyterlab](https://github.com/topics/jupyterlab)
+- [jupyterlab-extension](https://github.com/topics/jupyterlab-extension)
+- https://gitlab.com/explore/projects?name=jupyter
+- https://github.com/search?type=Repositories&q=jupyter
 
 # Contributing
 

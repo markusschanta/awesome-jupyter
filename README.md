@@ -25,7 +25,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
   - [Articles/Guides/Tutorials](#articlesguidestutorials)
 - [Contributing](#contributing)
 
-- - -
+---
 
 ## Runtimes/Frontends
 

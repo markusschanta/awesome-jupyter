@@ -13,16 +13,16 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 ## Contents
 
 - [Awesome Jupyter](#awesome-jupyter)
-    - [Runtimes/Frontends](#runtimesfrontends)
-    - [Collaboration/Education](#collaborationeducation)
-    - [Visualization](#visualization)
-    - [Rendering/Publishing/Conversion](#renderingpublishingconversion)
-    - [Testing](#testing)
-    - [Domain-Specific Projects](#domain-specific-projects)
-    - [Hosted Notebook Solutions](#hosted-notebook-solutions)
-    - [Official Resources and Documentation](#official-resources-and-documentation)
-    - [Community Resources](#community-resources)
-    - [Articles/Guides/Tutorials](#articlesguidestutorials)
+  - [Runtimes/Frontends](#runtimesfrontends)
+  - [Collaboration/Education](#collaborationeducation)
+  - [Visualization](#visualization)
+  - [Rendering/Publishing/Conversion](#renderingpublishingconversion)
+  - [Testing](#testing)
+  - [Domain-Specific Projects](#domain-specific-projects)
+  - [Hosted Notebook Solutions](#hosted-notebook-solutions)
+  - [Official Resources and Documentation](#official-resources-and-documentation)
+  - [Community Resources](#community-resources)
+  - [Articles/Guides/Tutorials](#articlesguidestutorials)
 - [Contributing](#contributing)
 
 - - -

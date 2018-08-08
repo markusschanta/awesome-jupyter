@@ -1,6 +1,6 @@
 # Awesome Jupyter [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome [Jupyter](http://jupyter.org/) projects, libraries and resources. Jupyter is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text.
+A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and resources. Jupyter is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text.
 
 <h1 align="center" style="border-bottom: 0px;">
 	<br>
@@ -29,7 +29,7 @@ A curated list of awesome [Jupyter](http://jupyter.org/) projects, libraries and
 
 ## Runtimes/Frontends
 
-- [Beaker](http://beakernotebook.com/) - Development environment with seamless data transmission from one language to another.
+- [Beaker](http://beakernotebook.com) - Development environment with seamless data transmission from one language to another.
 - [docker-stacks](https://github.com/jupyter/docker-stacks) - Hierarchical stacks of ready-to-run Jupyter applications in Docker.
 - [Hydrogen](https://github.com/nteract/hydrogen) - Run code inline in Atom using Jupyter kernels.
 - [Jupyter Notebook](https://github.com/jupyter/notebook) - Main Jupyter notebook runtime.
@@ -59,20 +59,20 @@ A curated list of awesome [Jupyter](http://jupyter.org/) projects, libraries and
 - [IPySigma](https://github.com/bsnacks000/IPySigma-Demo) - Prototype network visualization frontend for Jupyter notebooks.
 - [ipywidgets](https://github.com/jupyter-widgets/ipywidgets) - UI widgets for Jupyter.
 - [jupyterlab_voyager](https://github.com/altair-viz/jupyterlab_voyager) - Extension to view CSV and JSON data in [Voyager](http://vega.github.io/voyager/).
-- [mpld3](http://mpld3.github.io/) - Combining Matplotlib and D3js vor interactive data visualizations.
+- [mpld3](http://mpld3.github.io) - Combining Matplotlib and D3js vor interactive data visualizations.
 - [pythreejs](https://github.com/jovyan/pythreejs) - Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [Qgrid](https://github.com/quantopian/qgrid) - Interactive grid for sorting, filtering, and editing DataFrames in Jupyter notebooks.
 
 ## Rendering/Publishing/Conversion
 
-- [Binder](http://mybinder.org/) - Turn a GitHub repo into a collection of interactive notebooks.
+- [Binder](http://mybinder.org) - Turn a GitHub repo into a collection of interactive notebooks.
 - [Bookbook](https://github.com/takluyver/bookbook) - Bookbook converts a set of notebooks in a directory to HTML or PDF, preserving cross references within and between notebooks.
-- [nbconvert](https://nbconvert.readthedocs.io/) - Convert Notebooks to other formats.
+- [nbconvert](https://nbconvert.readthedocs.io) - Convert Notebooks to other formats.
 - [nbdime](https://github.com/jupyter/nbdime) - Tools for diffing and merging of Jupyter notebooks.
-- [nbinteract](https://www.nbinteract.com/) - Create interactive webpages from Jupyter notebooks.
+- [nbinteract](https://www.nbinteract.com) - Create interactive webpages from Jupyter notebooks.
 - [nbflow](https://github.com/jhamrick/nbflow) - One-button reproducible workflows with Jupyter and Scons.
 - [nbscan](https://github.com/conery/nbscan) - Search for and print cells contents of Jupyter notebooks.
-- [Nikola](https://getnikola.com/) - Static Site Generator that converts notebooks into websites.
+- [Nikola](https://getnikola.com) - Static Site Generator that converts notebooks into websites.
 - [notedown](https://github.com/aaren/notedown/) - Convert Jupyter notebooks to markdown (and back).
 - [Papermill](https://github.com/nteract/papermill) - Tool for parameterizing, executing, and analyzing Jupyter notebooks.
 - [pynb](https://github.com/minodes/pynb) - Jupyter Notebooks as plain Python code with embedded Markdown text.
@@ -87,7 +87,7 @@ A curated list of awesome [Jupyter](http://jupyter.org/) projects, libraries and
 
 ## Domain-Specific Projects
 
-- [GenePattern Notebook](http://genepattern-notebook.org/) - Integrating Genomic Analysis with Interactive Notebooks.
+- [GenePattern Notebook](http://genepattern-notebook.org) - Integrating Genomic Analysis with Interactive Notebooks.
 - [GeoNotebook](https://github.com/OpenGeoscience/geonotebook) - Extension for exploratory geospatial analysis.
 - [lolviz](https://github.com/parrt/lolviz) - Data-structure visualization tool for lists of lists, lists, dictionaries.
 - [Quantopian Notebooks](https://www.quantopian.com/notebooks/survey) - Jupyter-based platform for financial research.
@@ -96,13 +96,13 @@ A curated list of awesome [Jupyter](http://jupyter.org/) projects, libraries and
 ## Hosted Notebook Solutions
 
 - [Anaconda Enterprise](https://www.anaconda.com/enterprise/) - Multi-user collaboration and one-click deployment of models, notebooks, and dashboards.
-- [Azure Notebooks](https://notebooks.azure.com/) - Jupyter notebooks running in the cloud on Microsoft Azure.
-- [CoCalc](https://cocalc.com/) - Notebooks with 17 supported kernel types, course management, LaTeX document authoring, simultaneous document editing and integration with the SageMath computer algebra system.
-- [DataScience.com](https://www.datascience.com/) - Platform for enterprise data science.
-- [Domino Data Lab](https://www.dominodatalab.com/) - Data science platform with integrated collaboration tools, environment management and compute grid.
+- [Azure Notebooks](https://notebooks.azure.com) - Jupyter notebooks running in the cloud on Microsoft Azure.
+- [CoCalc](https://cocalc.com) - Notebooks with 17 supported kernel types, course management, LaTeX document authoring, simultaneous document editing and integration with the SageMath computer algebra system.
+- [DataScience.com](https://www.datascience.com) - Platform for enterprise data science.
+- [Domino Data Lab](https://www.dominodatalab.com) - Data science platform with integrated collaboration tools, environment management and compute grid.
 - [Google Cloud Datalab](https://cloud.google.com/datalab/) - Notebook platform integrated with the Google Cloud stack.
 - [Google Colaboratory](https://research.google.com/colaboratory/unregistered.html) - Cloud-based Jupyter environment aimed at machine learning education and research.
-- [Gryd](https://gryd.us/) - Simple, managed, ready-to-use, cloud based Jupyter notebooks supporting multiple languages.
+- [Gryd](https://gryd.us) - Simple, managed, ready-to-use, cloud based Jupyter notebooks supporting multiple languages.
 - [PAWS](https://wikitech.wikimedia.org/wiki/PAWS) - Jupyter notebook deployment customized for interacting with Wikimedia wikis.
 
 ## Official Resources and Documentation
@@ -110,7 +110,7 @@ A curated list of awesome [Jupyter](http://jupyter.org/) projects, libraries and
 - [JupyterLab Documentation](http://jupyterlab.readthedocs.io/en/stable/index.html)
 - [Jupyter kernels](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels) - List of all programming languages available as Jupyter kernels.
 - [Making kernels for Jupyter](https://jupyter-client.readthedocs.io/en/latest/kernels.html)
-- [Try Jupyter](https://try.jupyter.org/) - Try Jupyter in your browser.
+- [Try Jupyter](https://try.jupyter.org) - Try Jupyter in your browser.
 
 ## Community Resources
 

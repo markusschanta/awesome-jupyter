@@ -12,17 +12,16 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 
 ## Contents
 
-- [Awesome Jupyter](#awesome-jupyter)
-  - [Runtimes/Frontends](#runtimesfrontends)
-  - [Collaboration/Education](#collaborationeducation)
-  - [Visualization](#visualization)
-  - [Rendering/Publishing/Conversion](#renderingpublishingconversion)
-  - [Testing](#testing)
-  - [Domain-Specific Projects](#domain-specific-projects)
-  - [Hosted Notebook Solutions](#hosted-notebook-solutions)
-  - [Official Resources and Documentation](#official-resources-and-documentation)
-  - [Community Resources](#community-resources)
-  - [Articles/Guides/Tutorials](#articlesguidestutorials)
+- [Runtimes/Frontends](#runtimesfrontends)
+- [Collaboration/Education](#collaborationeducation)
+- [Visualization](#visualization)
+- [Rendering/Publishing/Conversion](#renderingpublishingconversion)
+- [Testing](#testing)
+- [Domain-Specific Projects](#domain-specific-projects)
+- [Hosted Notebook Solutions](#hosted-notebook-solutions)
+- [Official Resources and Documentation](#official-resources-and-documentation)
+- [Community Resources](#community-resources)
+- [Articles/Guides/Tutorials](#articlesguidestutorials)
 - [Contributing](#contributing)
 
 ---
@@ -77,7 +76,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [Papermill](https://github.com/nteract/papermill) - Tool for parameterizing, executing, and analyzing Jupyter notebooks.
 - [pynb](https://github.com/minodes/pynb) - Jupyter Notebooks as plain Python code with embedded Markdown text.
 - [RISE](https://github.com/damianavila/RISE) - Reveal.js Jupyter/IPython Slideshow.
-- [rst2ipynb](https://github.com/nthiery/rst-to-ipynb) - convert standalone reStructuredText files to Jupyter notebook file.
+- [rst2ipynb](https://github.com/nthiery/rst-to-ipynb) - Convert standalone reStructuredText files to Jupyter notebook file.
 
 ## Testing
 
@@ -119,7 +118,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - Gitter - [Jupyter Gitter Chatroom](https://gitter.im/jupyter/jupyter)
 - Mailing Lists - [Jupyter General Mailing List](https://groups.google.com/forum/#!forum/jupyter), [Jupyter in Education Mailing List](https://groups.google.com/forum/#!forum/jupyter-education)
 - Reddit - Subreddits: [r/IPython](https://www.reddit.com/r/IPython/), [r/Jupyter/](https://www.reddit.com/r/Jupyter/)
-- Stackoverflow - Tags: [jupyter](https://stackoverflow.com/questions/tagged/jupyter), [jupyter-notebook](https://stackoverflow.com/questions/tagged/jupyter-notebook)
+- Stack Overflow - Tags: [jupyter](https://stackoverflow.com/questions/tagged/jupyter), [jupyter-notebook](https://stackoverflow.com/questions/tagged/jupyter-notebook)
 
 ## Articles/Guides/Tutorials
 

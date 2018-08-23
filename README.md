@@ -12,17 +12,16 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 
 ## Contents
 
-- [Awesome Jupyter](#awesome-jupyter)
-  - [Runtimes/Frontends](#runtimesfrontends)
-  - [Collaboration/Education](#collaborationeducation)
-  - [Visualization](#visualization)
-  - [Rendering/Publishing/Conversion](#renderingpublishingconversion)
-  - [Testing](#testing)
-  - [Domain-Specific Projects](#domain-specific-projects)
-  - [Hosted Notebook Solutions](#hosted-notebook-solutions)
-  - [Official Resources and Documentation](#official-resources-and-documentation)
-  - [Community Resources](#community-resources)
-  - [Articles/Guides/Tutorials](#articlesguidestutorials)
+- [Runtimes/Frontends](#runtimesfrontends)
+- [Collaboration/Education](#collaborationeducation)
+- [Visualization](#visualization)
+- [Rendering/Publishing/Conversion](#renderingpublishingconversion)
+- [Testing](#testing)
+- [Domain-Specific Projects](#domain-specific-projects)
+- [Hosted Notebook Solutions](#hosted-notebook-solutions)
+- [Official Resources and Documentation](#official-resources-and-documentation)
+- [Community Resources](#community-resources)
+- [Articles/Guides/Tutorials](#articlesguidestutorials)
 - [Contributing](#contributing)
 
 ---
@@ -46,6 +45,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [IPythonBlocks](https://github.com/jiffyclub/ipythonblocks) - Practice Python with colored grids in Jupyer.
 - [jupyter-drive](https://github.com/jupyter/jupyter-drive) - Google drive for Jupyter.
 - [jupyter-viewer-xblock](https://github.com/ibleducation/jupyter-viewer-xblock) - Fetch and display part of, or an entire Jupyter Notebook in an Open edX XBlock.
+- [jupyter-edx-grader-xblock](https://github.com/ibleducation/jupyter-edx-grader-xblock) - Auto-grade a student assignment created as a Jupyter notebook and write the score in the Open edX gradebook.
 - [LTI Launch JupyterHub Authenticator](https://github.com/jupyterhub/ltiauthenticator) - Authentication via Edx.
 - [nbautoeval](https://github.com/parmentelat/nbautoeval) - Create auto-evaluated exercises.
 - [nbgrader](https://github.com/jupyter/nbgrader) - Assigning and grading of Jupyter notebooks.
@@ -60,6 +60,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [ipywidgets](https://github.com/jupyter-widgets/ipywidgets) - UI widgets for Jupyter.
 - [jupyterlab_voyager](https://github.com/altair-viz/jupyterlab_voyager) - Extension to view CSV and JSON data in [Voyager](http://vega.github.io/voyager/).
 - [mpld3](http://mpld3.github.io) - Combining Matplotlib and D3js vor interactive data visualizations.
+- [pyecharts](https://github.com/pyecharts/pyecharts) - Python interface for the [ECharts](https://github.com/apache/incubator-echarts) visualization library.
 - [pythreejs](https://github.com/jovyan/pythreejs) - Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [Qgrid](https://github.com/quantopian/qgrid) - Interactive grid for sorting, filtering, and editing DataFrames in Jupyter notebooks.
 
@@ -77,7 +78,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [Papermill](https://github.com/nteract/papermill) - Tool for parameterizing, executing, and analyzing Jupyter notebooks.
 - [pynb](https://github.com/minodes/pynb) - Jupyter Notebooks as plain Python code with embedded Markdown text.
 - [RISE](https://github.com/damianavila/RISE) - Reveal.js Jupyter/IPython Slideshow.
-- [rst2ipynb](https://github.com/nthiery/rst-to-ipynb) - convert standalone reStructuredText files to Jupyter notebook file.
+- [rst2ipynb](https://github.com/nthiery/rst-to-ipynb) - Convert standalone reStructuredText files to Jupyter notebook file.
 
 ## Testing
 
@@ -119,7 +120,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - Gitter - [Jupyter Gitter Chatroom](https://gitter.im/jupyter/jupyter)
 - Mailing Lists - [Jupyter General Mailing List](https://groups.google.com/forum/#!forum/jupyter), [Jupyter in Education Mailing List](https://groups.google.com/forum/#!forum/jupyter-education)
 - Reddit - Subreddits: [r/IPython](https://www.reddit.com/r/IPython/), [r/Jupyter/](https://www.reddit.com/r/Jupyter/)
-- Stackoverflow - Tags: [jupyter](https://stackoverflow.com/questions/tagged/jupyter), [jupyter-notebook](https://stackoverflow.com/questions/tagged/jupyter-notebook)
+- Stack Overflow - Tags: [jupyter](https://stackoverflow.com/questions/tagged/jupyter), [jupyter-notebook](https://stackoverflow.com/questions/tagged/jupyter-notebook)
 
 ## Articles/Guides/Tutorials
 

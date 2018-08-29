@@ -16,6 +16,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [Collaboration/Education](#collaborationeducation)
 - [Visualization](#visualization)
 - [Rendering/Publishing/Conversion](#renderingpublishingconversion)
+- [JupyterLab Extensions](#jupyterlab-extensions)
 - [Testing](#testing)
 - [Domain-Specific Projects](#domain-specific-projects)
 - [Hosted Notebook Solutions](#hosted-notebook-solutions)
@@ -58,7 +59,6 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [bqplot](https://github.com/bloomberg/bqplot) - Grammar of Graphics-based interactive plotting framework for Jupyter.
 - [IPySigma](https://github.com/bsnacks000/IPySigma-Demo) - Prototype network visualization frontend for Jupyter notebooks.
 - [ipywidgets](https://github.com/jupyter-widgets/ipywidgets) - UI widgets for Jupyter.
-- [jupyterlab_voyager](https://github.com/altair-viz/jupyterlab_voyager) - Extension to view CSV and JSON data in [Voyager](http://vega.github.io/voyager/).
 - [mpld3](http://mpld3.github.io) - Combining Matplotlib and D3js vor interactive data visualizations.
 - [pyecharts](https://github.com/pyecharts/pyecharts) - Python interface for the [ECharts](https://github.com/apache/incubator-echarts) visualization library.
 - [pythreejs](https://github.com/jovyan/pythreejs) - Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
@@ -79,6 +79,15 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [pynb](https://github.com/minodes/pynb) - Jupyter Notebooks as plain Python code with embedded Markdown text.
 - [RISE](https://github.com/damianavila/RISE) - Reveal.js Jupyter/IPython Slideshow.
 - [rst2ipynb](https://github.com/nthiery/rst-to-ipynb) - Convert standalone reStructuredText files to Jupyter notebook file.
+
+## JupyterLab Extensions
+
+- [celltags](https://github.com/jupyterlab/jupyterlab-celltags) - Extension to organise and execute notebooks using cell tags.
+- [git](https://github.com/jupyterlab/jupyterlab-git) - Extension for git integration.
+- [google-drive](https://github.com/jupyterlab/jupyterlab-google-drive) - Extension for Google Drive integration.
+- [statusbar](https://github.com/jupyterlab/jupyterlab-statusbar) - Statusbar that displays various metrics/states of JupyterLab.
+- [toc](https://github.com/jupyterlab/jupyterlab-toc) - Extension that provides a table of contents for notebooks.
+- [voyager](https://github.com/altair-viz/jupyterlab_voyager) - Extension to view CSV and JSON data in [Voyager](http://vega.github.io/voyager/).
 
 ## Testing
 

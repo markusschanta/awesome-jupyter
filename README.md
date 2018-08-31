@@ -146,6 +146,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [Jupyter Notebook Themes](https://github.com/dunovank/jupyter-themes)
 - [Jupyter tips, tricks and shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
 - [Lectures on scientific computing with Python](https://github.com/jrjohansson/scientific-python-lectures)
+- [The Littlest JupyterHub](https://the-littlest-jupyterhub.readthedocs.io/en/latest/) - A JupyterHub that for to 1-50 users on a single server; more lightweight than the Zero to JupyterHub setup.
 - [pytudes](https://github.com/norvig/pytudes) - List of Jupyter Notebooks by Peter Norvig.
 - [ResGuides: research with Jupyter](https://www.gitbook.com/book/dansand/resguides-research-with-jupyter/details)
 - [Zero to JupyterHub](http://zero-to-jupyterhub.readthedocs.io/en/latest/) - Tutorial to help install and manage JupyterHub.

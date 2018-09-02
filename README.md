@@ -60,6 +60,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [IPySigma](https://github.com/bsnacks000/IPySigma-Demo) - Prototype network visualization frontend for Jupyter notebooks.
 - [ipyleaflet](https://github.com/jupyter-widgets/ipyleaflet) - Interactive visualization library for Leaflet.js maps in Jupyter noteboks.
 - [ipywidgets](https://github.com/jupyter-widgets/ipywidgets) - UI widgets for Jupyter.
+- [jupyter-gmaps](https://github.com/pbugnion/gmaps) - Interactive visualization library for Google Maps in Jupyter notebooks.
 - [mpld3](http://mpld3.github.io) - Combining Matplotlib and D3js vor interactive data visualizations.
 - [pyecharts](https://github.com/pyecharts/pyecharts) - Python interface for the [ECharts](https://github.com/apache/incubator-echarts) visualization library.
 - [pythreejs](https://github.com/jovyan/pythreejs) - Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.

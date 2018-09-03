@@ -25,8 +25,6 @@ A curated list of awesome [Jupyter](http://jupyter.org/) projects, libraries and
     - [Community Resources](#community-resources)
     - [Articles/Guides/Tutorials](#articlesguidestutorials)
     - [Jupyter Notebook, JupyterHub, JupyterLab](#jupyter-notebook-jupyterhub-jupyterlab)
-      - [Framework :: Jupyter](#framework--jupyter)
-      - [Jupyter GitHub Topics](#jupyter-github-topics)
 - [Contributing](#contributing)
 
 - - -

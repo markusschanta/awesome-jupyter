@@ -198,22 +198,6 @@ A curated list of awesome [Jupyter](http://jupyter.org/) projects, libraries and
   - Docs: https://jupyterlab.readthedocs.io/en/stable/
   - Docs: https://jupyter.org/documentation
 
-### Framework :: Jupyter
-[``Framework :: Jupyter``](https://pypi.org/search/?&c=Framework+%3A%3A+Jupyter)
-is the PyPI trove classifier for Jupyter projects.
-
-### Jupyter GitHub Topics
-- [ipython](https://github.com/topics/ipython)
-- [jupyter](https://github.com/topics/jupyter)
-- [jupyter-notebook](https://github.com/topics/jupyter-notebook)
-- [jupyter-kernels](https://github.com/topics/jupyter-kernels)
-- [jupyter-extension](https://github.com/topics/jupyter-extension)
-- [jupyterhub](https://github.com/topics/jupyterhub)
-- [jupyterlab](https://github.com/topics/jupyterlab)
-- [jupyterlab-extension](https://github.com/topics/jupyterlab-extension)
-- https://gitlab.com/explore/projects?name=jupyter
-- https://github.com/search?type=Repositories&q=jupyter
-
 # Contributing
 
 Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/adebar/awesome-jupyter/blob/master/CONTRIBUTING.md) first.

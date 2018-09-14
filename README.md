@@ -37,7 +37,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [JupyterLab](https://github.com/jupyterlab/jupyterlab) - JupyterLab is the next generation user interface for Jupyter.
 - [kaggle/docker-python](https://github.com/kaggle/docker-python) - Kaggle Python docker image that includes datasets and packages.
 - [nteract](https://github.com/nteract/nteract) - Native desktop notebook frontend.
-- [Rodeo](https://www.yhat.com/products/rodeo) - Native Python IDE for Data Science.
+- [Rodeo](https://rodeo.yhat.com/) - Native Python IDE for Data Science.
 - [Stencila](https://github.com/stencila/stencila) - Native desktop notebook frontend.
 
 ## Collaboration/Education

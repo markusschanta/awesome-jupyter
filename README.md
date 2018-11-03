@@ -16,6 +16,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [Collaboration/Education](#collaborationeducation)
 - [Visualization](#visualization)
 - [Rendering/Publishing/Conversion](#renderingpublishingconversion)
+- [Developing Support](#developing-support)
 - [JupyterLab Extensions](#jupyterlab-extensions)
 - [Testing](#testing)
 - [Domain-Specific Projects](#domain-specific-projects)
@@ -83,6 +84,10 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [pynb](https://github.com/minodes/pynb) - Jupyter Notebooks as plain Python code with embedded Markdown text.
 - [RISE](https://github.com/damianavila/RISE) - Reveal.js Jupyter/IPython Slideshow.
 - [rst2ipynb](https://github.com/nthiery/rst-to-ipynb) - Convert standalone reStructuredText files to Jupyter notebook file.
+
+## Developing Support
+
+- [jupyter-notify](https://github.com/ShopRunner/jupyter-notify) - A Jupyter Notebook magic for browser notifications of cell completion.
 
 ## JupyterLab Extensions
 

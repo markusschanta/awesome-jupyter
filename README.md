@@ -85,10 +85,6 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [RISE](https://github.com/damianavila/RISE) - Reveal.js Jupyter/IPython Slideshow.
 - [rst2ipynb](https://github.com/nthiery/rst-to-ipynb) - Convert standalone reStructuredText files to Jupyter notebook file.
 
-## Developing Support
-
-
-
 ## JupyterLab Extensions
 
 - [celltags](https://github.com/jupyterlab/jupyterlab-celltags) - Extension to organise and execute notebooks using cell tags.

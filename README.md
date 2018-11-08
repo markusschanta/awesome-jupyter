@@ -16,7 +16,6 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [Collaboration/Education](#collaborationeducation)
 - [Visualization](#visualization)
 - [Rendering/Publishing/Conversion](#renderingpublishingconversion)
-- [Developing Support](#developing-support)
 - [JupyterLab Extensions](#jupyterlab-extensions)
 - [Testing](#testing)
 - [Domain-Specific Projects](#domain-specific-projects)
@@ -36,6 +35,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [Jupyter Notebook](https://github.com/jupyter/notebook) - Main Jupyter notebook runtime.
 - [JupyterHub](https://github.com/jupyterhub/jupyterhub) - Multi-user server for Jupyter.
 - [JupyterLab](https://github.com/jupyterlab/jupyterlab) - JupyterLab is the next generation user interface for Jupyter.
+- [ShopRunner/jupyter-notify](https://github.com/ShopRunner/jupyter-notify) - Cell magic for browser notification of cell completion.
 - [kaggle/docker-python](https://github.com/kaggle/docker-python) - Kaggle Python docker image that includes datasets and packages.
 - [nteract](https://github.com/nteract/nteract) - Native desktop notebook frontend.
 - [Rodeo](https://rodeo.yhat.com/) - Native Python IDE for Data Science.
@@ -87,7 +87,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 
 ## Developing Support
 
-- [jupyter-notify](https://github.com/ShopRunner/jupyter-notify) - A Jupyter Notebook magic for browser notifications of cell completion.
+
 
 ## JupyterLab Extensions
 

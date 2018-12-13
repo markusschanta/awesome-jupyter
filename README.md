@@ -123,6 +123,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [Google Colaboratory](https://research.google.com/colaboratory/unregistered.html) - Cloud-based Jupyter environment aimed at machine learning education and research.
 - [Gryd](https://gryd.us) - Simple, managed, ready-to-use, cloud based Jupyter notebooks supporting multiple languages.
 - [PAWS](https://wikitech.wikimedia.org/wiki/PAWS) - Jupyter notebook deployment customized for interacting with Wikimedia wikis.
+- [RMOTR Notebooks](https://notebooks.rmotr.com) - Online free Jupyter Lab environment for education ([example](https://notebooks.rmotr.com/AllenDowney/modeling-and-simulation-in-python-170326d3)).
 
 ## Official Resources and Documentation
 

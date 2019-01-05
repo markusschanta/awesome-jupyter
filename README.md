@@ -90,6 +90,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [celltags](https://github.com/jupyterlab/jupyterlab-celltags) - Extension to organise and execute notebooks using cell tags.
 - [drawio](https://github.com/QuantStack/jupyterlab-drawio) - Extension that displays drawio/mxgraph diagrams.
 - [git](https://github.com/jupyterlab/jupyterlab-git) - Extension for git integration.
+- [go-to-definition](https://github.com/krassowski/jupyterlab-go-to-definition) - Extension for jumping to the definition of variables and functions in JupyterLab.
 - [google-drive](https://github.com/jupyterlab/jupyterlab-google-drive) - Extension for Google Drive integration.
 - [latex](https://github.com/jupyterlab/jupyterlab-latex) - Extension for live editing of LaTeX documents.
 - [statusbar](https://github.com/jupyterlab/jupyterlab-statusbar) - Statusbar that displays various metrics/states of JupyterLab.

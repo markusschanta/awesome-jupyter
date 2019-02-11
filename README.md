@@ -56,6 +56,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 ## Visualization
 
 - [Altair](https://github.com/altair-viz/altair) - Declarative visualization library for Python, based on [Vega](http://vega.github.io/vega) and [Vega-Lite](https://github.com/vega/vega-lite).
+- [ArcGIS](https://developers.arcgis.com/python/) - A powerful Python library for spatial analysis, mapping and GIS
 - [Bokeh](https://bokeh.pydata.org/en/latest/) - Interactive visualization library that targets modern web browsers for presentation.
 - [bqplot](https://github.com/bloomberg/bqplot) - Grammar of Graphics-based interactive plotting framework for Jupyter.
 - [IPySigma](https://github.com/bsnacks000/IPySigma-Demo) - Prototype network visualization frontend for Jupyter notebooks.

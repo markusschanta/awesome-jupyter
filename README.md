@@ -98,6 +98,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [toc](https://github.com/jupyterlab/jupyterlab-toc) - Extension that provides a table of contents for notebooks.
 - [variableinspector](https://github.com/lckr/jupyterlab-variableInspector) - Variable inspector extension that shows variables and their values.
 - [voyager](https://github.com/altair-viz/jupyterlab_voyager) - Extension to view CSV and JSON data in [Voyager](http://vega.github.io/voyager/).
+- [lantern](https://github.com/timkpaine/lantern) Orchestration layer for plots and tables, dummy datasets, widget helpers, research & reports for data scientists.
 
 ## Testing
 

@@ -35,12 +35,12 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [Jupyter Notebook](https://github.com/jupyter/notebook) - Main Jupyter notebook runtime.
 - [JupyterHub](https://github.com/jupyterhub/jupyterhub) - Multi-user server for Jupyter.
 - [JupyterLab](https://github.com/jupyterlab/jupyterlab) - JupyterLab is the next generation user interface for Jupyter.
+- [JupyterWith](https://github.com/tweag/jupyterWith) - Nix-based framework for the definition of declarative and reproducible Jupyter environments.
 - [ShopRunner/jupyter-notify](https://github.com/ShopRunner/jupyter-notify) - Cell magic for browser notification of cell completion.
 - [kaggle/docker-python](https://github.com/kaggle/docker-python) - Kaggle Python docker image that includes datasets and packages.
 - [nteract](https://github.com/nteract/nteract) - Native desktop notebook frontend.
 - [Rodeo](https://rodeo.yhat.com/) - Native Python IDE for Data Science.
 - [Stencila](https://github.com/stencila/stencila) - Native desktop notebook frontend.
-- [jupyterWith](https://github.com/tweag/jupyterWith) - highly reproducible and configurable jupyter environments
 
 ## Collaboration/Education
 

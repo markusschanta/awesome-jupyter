@@ -39,7 +39,6 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [ShopRunner/jupyter-notify](https://github.com/ShopRunner/jupyter-notify) - Cell magic for browser notification of cell completion.
 - [kaggle/docker-python](https://github.com/kaggle/docker-python) - Kaggle Python docker image that includes datasets and packages.
 - [nteract](https://github.com/nteract/nteract) - Native desktop notebook frontend.
-- [Rodeo](https://rodeo.yhat.com/) - Native Python IDE for Data Science.
 - [Stencila](https://github.com/stencila/stencila) - Native desktop notebook frontend.
 
 ## Collaboration/Education

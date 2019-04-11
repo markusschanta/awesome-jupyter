@@ -35,10 +35,10 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [Jupyter Notebook](https://github.com/jupyter/notebook) - Main Jupyter notebook runtime.
 - [JupyterHub](https://github.com/jupyterhub/jupyterhub) - Multi-user server for Jupyter.
 - [JupyterLab](https://github.com/jupyterlab/jupyterlab) - JupyterLab is the next generation user interface for Jupyter.
+- [JupyterWith](https://github.com/tweag/jupyterWith) - Nix-based framework for the definition of declarative and reproducible Jupyter environments.
 - [ShopRunner/jupyter-notify](https://github.com/ShopRunner/jupyter-notify) - Cell magic for browser notification of cell completion.
 - [kaggle/docker-python](https://github.com/kaggle/docker-python) - Kaggle Python docker image that includes datasets and packages.
 - [nteract](https://github.com/nteract/nteract) - Native desktop notebook frontend.
-- [Rodeo](https://rodeo.yhat.com/) - Native Python IDE for Data Science.
 - [Stencila](https://github.com/stencila/stencila) - Native desktop notebook frontend.
 
 ## Collaboration/Education
@@ -60,6 +60,9 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [bqplot](https://github.com/bloomberg/bqplot) - Grammar of Graphics-based interactive plotting framework for Jupyter.
 - [IPySigma](https://github.com/bsnacks000/IPySigma-Demo) - Prototype network visualization frontend for Jupyter notebooks.
 - [ipyleaflet](https://github.com/jupyter-widgets/ipyleaflet) - Interactive visualization library for Leaflet.js maps in Jupyter notebooks.
+- [ipysheet](https://github.com/QuantStack/ipysheet/) - Interactive spreadsheets in Jupyter.
+- [ipytree](https://github.com/QuantStack/ipytree/) - Tree UI element for Jupyter.
+- [ipywebrtc](https://github.com/maartenbreddels/ipywebrtc) - Video/Audio streaming in Jupyter.
 - [ipywidgets](https://github.com/jupyter-widgets/ipywidgets) - UI widgets for Jupyter.
 - [ipyvolume](https://github.com/maartenbreddels/ipyvolume) - 3D plotting for Python in Jupyter based on widgets and WebGL.
 - [itk-jupyter-widgets](https://github.com/InsightSoftwareConsortium/itk-jupyter-widgets) - Interactive widgets to visualize images in 2D and 3D.
@@ -69,11 +72,15 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [pythreejs](https://github.com/jovyan/pythreejs) - Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [Qgrid](https://github.com/quantopian/qgrid) - Interactive grid for sorting, filtering, and editing DataFrames in Jupyter notebooks.
 - [tributary](https://github.com/timkpaine/tributary) - Python data streams with Jupyter support.
+- [xleaflet](https://github.com/QuantStack/xleaflet) - C++ Backend for ipyleaflet.
+- [xwebrtc](https://github.com/QuantStack/xwebrtc) - C++ Backend for ipywebrtc.
+- [xwidgets](https://github.com/QuantStack/xwidgets) - C++ Backend for ipywidgets.
 
 ## Rendering/Publishing/Conversion
 
 - [Binder](http://mybinder.org) - Turn a GitHub repo into a collection of interactive notebooks.
 - [Bookbook](https://github.com/takluyver/bookbook) - Bookbook converts a set of notebooks in a directory to HTML or PDF, preserving cross references within and between notebooks.
+- [Jupytext](https://github.com/mwouts/jupytext) - Edit, refactor and version control Jupyter Notebooks represented as scripts or Markdown documents.
 - [nbconvert](https://nbconvert.readthedocs.io) - Convert Notebooks to other formats.
 - [nbdime](https://github.com/jupyter/nbdime) - Tools for diffing and merging of Jupyter notebooks.
 - [nbinteract](https://www.nbinteract.com) - Create interactive webpages from Jupyter notebooks.
@@ -85,6 +92,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [pynb](https://github.com/minodes/pynb) - Jupyter Notebooks as plain Python code with embedded Markdown text.
 - [RISE](https://github.com/damianavila/RISE) - Reveal.js Jupyter/IPython Slideshow.
 - [rst2ipynb](https://github.com/nthiery/rst-to-ipynb) - Convert standalone reStructuredText files to Jupyter notebook file.
+- [Voila](https://github.com/QuantStack/voila) - Rendering of live Jupyter Notebooks with interactive widgets, allowing dashboarding based on Jupyter Notebooks
 
 ## JupyterLab Extensions
 

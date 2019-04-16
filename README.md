@@ -71,6 +71,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [pyecharts](https://github.com/pyecharts/pyecharts) - Python interface for the [ECharts](https://github.com/apache/incubator-echarts) visualization library.
 - [pythreejs](https://github.com/jovyan/pythreejs) - Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [Qgrid](https://github.com/quantopian/qgrid) - Interactive grid for sorting, filtering, and editing DataFrames in Jupyter notebooks.
+- [tributary](https://github.com/timkpaine/tributary) - Python data streams with Jupyter support.
 - [xleaflet](https://github.com/QuantStack/xleaflet) - C++ Backend for ipyleaflet.
 - [xwebrtc](https://github.com/QuantStack/xwebrtc) - C++ Backend for ipywebrtc.
 - [xwidgets](https://github.com/QuantStack/xwidgets) - C++ Backend for ipywidgets.
@@ -100,6 +101,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [git](https://github.com/jupyterlab/jupyterlab-git) - Extension for git integration.
 - [go-to-definition](https://github.com/krassowski/jupyterlab-go-to-definition) - Extension for navigating to the definition of a variable or function in JupyterLab.
 - [google-drive](https://github.com/jupyterlab/jupyterlab-google-drive) - Extension for Google Drive integration.
+- [jupyterlab_email](https://github.com/timkpaine/jupyterlab_email) - Email notebooks and their content from within JupyterLab.
 - [jupyterlab-kyso](https://github.com/kyso-io/jupyterlab-extension) - Extension to publish notebooks to the [Kyso](https://kyso.io) platform from Jupyterlab.
 - [latex](https://github.com/jupyterlab/jupyterlab-latex) - Extension for live editing of LaTeX documents.
 - [statusbar](https://github.com/jupyterlab/jupyterlab-statusbar) - Statusbar that displays various metrics/states of JupyterLab.

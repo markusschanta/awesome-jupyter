@@ -72,6 +72,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [pythreejs](https://github.com/jovyan/pythreejs) - Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [Qgrid](https://github.com/quantopian/qgrid) - Interactive grid for sorting, filtering, and editing DataFrames in Jupyter notebooks.
 - [tributary](https://github.com/timkpaine/tributary) - Python data streams with Jupyter support.
+- [tqdm](https://github.com/tqdm/tqdm) - Fast, extensible progress bar for loops and iterables.
 - [xleaflet](https://github.com/QuantStack/xleaflet) - C++ Backend for ipyleaflet.
 - [xwebrtc](https://github.com/QuantStack/xwebrtc) - C++ Backend for ipywebrtc.
 - [xwidgets](https://github.com/QuantStack/xwidgets) - C++ Backend for ipywidgets.

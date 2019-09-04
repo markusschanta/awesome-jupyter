@@ -140,6 +140,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [Kyso](https://kyso.io) - Data science platform to publish and share Jupyter notebooks as data blogs and web applications.
 - [PAWS](https://wikitech.wikimedia.org/wiki/PAWS) - Jupyter notebook deployment customized for interacting with Wikimedia wikis.
 - [RMOTR Notebooks](https://notebooks.rmotr.com) - JupyterLab-based data science environment in the cloud.
+- [Spell.run](https://spell.run) - Data Science and Machine Learning infrastructure platform.
 
 ## Official Resources and Documentation
 

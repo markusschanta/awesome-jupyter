@@ -29,7 +29,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 
 ## Runtimes/Frontends
 
-- [Beaker](http://beakernotebook.com) - Development environment with seamless data transmission from one language to another.
+- [Beaker](http://beakerx.com/) - Development environment with seamless data transmission from one language to another.
 - [docker-stacks](https://github.com/jupyter/docker-stacks) - Hierarchical stacks of ready-to-run Jupyter applications in Docker.
 - [Hydrogen](https://github.com/nteract/hydrogen) - Run code inline in Atom using Jupyter kernels.
 - [Jupyter Notebook](https://github.com/jupyter/notebook) - Main Jupyter notebook runtime.

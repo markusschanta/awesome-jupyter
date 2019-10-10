@@ -100,6 +100,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 ## JupyterLab Extensions
 
 - [celltags](https://github.com/jupyterlab/jupyterlab-celltags) - Extension to organise and execute notebooks using cell tags.
+- [code_formatter](https://github.com/ryantam626/jupyterlab_code_formatter) - A universal code formatter.
 - [drawio](https://github.com/QuantStack/jupyterlab-drawio) - Extension that displays drawio/mxgraph diagrams.
 - [git](https://github.com/jupyterlab/jupyterlab-git) - Extension for git integration.
 - [go-to-definition](https://github.com/krassowski/jupyterlab-go-to-definition) - Extension for navigating to the definition of a variable or function in JupyterLab.
@@ -108,8 +109,17 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [jupyterlab-kyso](https://github.com/kyso-io/jupyterlab-extension) - Extension to publish notebooks to the [Kyso](https://kyso.io) platform from Jupyterlab.
 - [latex](https://github.com/jupyterlab/jupyterlab-latex) - Extension for live editing of LaTeX documents.
 - [nb_black](https://github.com/dnanhkhoa/nb_black) - Extension to keep Python code automatically formatted using [black](https://github.com/psf/black).
+- [python-bytecode](https://github.com/jtpio/jupyterlab-python-bytecode) - Explore CPython Bytecode in JupyterLab.
+- [quickopen](https://github.com/parente/jupyterlab-quickopen) - Quickly open a file in JupyterLab by typing part of its name.
+- [sidecar](https://github.com/jupyter-widgets/jupyterlab-sidecar) - A sidecar output widget for JupyterLab.
+- [sql](https://github.com/pbugnion/jupyterlab-sql) - SQL GUI for JupyterLab.
+- [system-monitor](https://github.com/jtpio/jupyterlab-system-monitor) - Extension to display system metrics.
+- [templates](https://github.com/timkpaine/jupyterlab_templates) - Support for Jupyter Notebook templates.
+- [theme-darcula](https://github.com/telamonian/theme-darcula) - A handsome Darcula theme for Jupyterlab.
 - [toc](https://github.com/jupyterlab/jupyterlab-toc) - Extension that provides a table of contents for notebooks.
+- [topbar](https://github.com/jtpio/jupyterlab-topbar) - Top Bar extension for JupyterLab.
 - [variableinspector](https://github.com/lckr/jupyterlab-variableInspector) - Variable inspector extension that shows variables and their values.
+- [vim](https://github.com/jwkvam/jupyterlab-vim) - Vim notebook cell bindings.
 - [voyager](https://github.com/altair-viz/jupyterlab_voyager) - Extension to view CSV and JSON data in [Voyager](http://vega.github.io/voyager/).
 
 ## Testing

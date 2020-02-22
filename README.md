@@ -129,6 +129,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [nbval](https://github.com/computationalmodelling/nbval) - Py.test plugin for validating Jupyter notebooks.
 - [sphinxcontrib-jupyter](https://github.com/QuantEcon/sphinxcontrib-jupyter) - Sphinx Extension for Generating Jupyter Notebooks.
 - [nosebook](https://github.com/bollwyvl/nosebook) - Nose plugin for finding and running IPython notebooks as nose tests.
+- [treon](https://github.com/ReviewNB/treon) - Easy-to-use test framework for Jupyter Notebooks.
 
 ## Domain-Specific Projects
 

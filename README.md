@@ -112,6 +112,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [nb_black](https://github.com/dnanhkhoa/nb_black) - Extension to keep Python code automatically formatted using [black](https://github.com/psf/black).
 - [python-bytecode](https://github.com/jtpio/jupyterlab-python-bytecode) - Explore CPython Bytecode in JupyterLab.
 - [quickopen](https://github.com/parente/jupyterlab-quickopen) - Quickly open a file in JupyterLab by typing part of its name.
+- [shortcutui](https://github.com/jupyterlab/jupyterlab-shortcutui) - An extension for managing keyboard shortcuts.
 - [sidecar](https://github.com/jupyter-widgets/jupyterlab-sidecar) - A sidecar output widget for JupyterLab.
 - [sql](https://github.com/pbugnion/jupyterlab-sql) - SQL GUI for JupyterLab.
 - [system-monitor](https://github.com/jtpio/jupyterlab-system-monitor) - Extension to display system metrics.

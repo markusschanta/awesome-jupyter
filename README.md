@@ -16,6 +16,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [Collaboration/Education](#collaborationeducation)
 - [Visualization](#visualization)
 - [Rendering/Publishing/Conversion](#renderingpublishingconversion)
+- [Version Control](#version-control)
 - [JupyterLab Extensions](#jupyterlab-extensions)
 - [Testing](#testing)
 - [Domain-Specific Projects](#domain-specific-projects)
@@ -83,9 +84,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 
 - [Binder](http://mybinder.org) - Turn a GitHub repo into a collection of interactive notebooks.
 - [Bookbook](https://github.com/takluyver/bookbook) - Bookbook converts a set of notebooks in a directory to HTML or PDF, preserving cross references within and between notebooks.
-- [Jupytext](https://github.com/mwouts/jupytext) - Edit, refactor and version control Jupyter Notebooks represented as scripts or Markdown documents.
 - [nbconvert](https://nbconvert.readthedocs.io) - Convert Notebooks to other formats.
-- [nbdime](https://github.com/jupyter/nbdime) - Tools for diffing and merging of Jupyter notebooks.
 - [nbinteract](https://www.nbinteract.com) - Create interactive webpages from Jupyter notebooks.
 - [nbflow](https://github.com/jhamrick/nbflow) - One-button reproducible workflows with Jupyter and Scons.
 - [nbscan](https://github.com/conery/nbscan) - Search for and print cells contents of Jupyter notebooks.
@@ -97,12 +96,18 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [rst2ipynb](https://github.com/nthiery/rst-to-ipynb) - Convert standalone reStructuredText files to Jupyter notebook file.
 - [Voila](https://github.com/QuantStack/voila) - Rendering of live Jupyter Notebooks with interactive widgets, allowing dashboarding based on Jupyter Notebooks
 
+## Version Control
+
+- [git](https://github.com/jupyterlab/jupyterlab-git) - Extension for git integration.
+- [Jupytext](https://github.com/mwouts/jupytext) - Edit, refactor and version control Jupyter Notebooks represented as scripts or Markdown documents.
+- [nbdime](https://github.com/jupyter/nbdime) - Tools for diffing and merging of Jupyter notebooks.
+- [ReviewNB](https://www.reviewnb.com/) - Code reviews for Jupyter Notebooks.
+
 ## JupyterLab Extensions
 
 - [celltags](https://github.com/jupyterlab/jupyterlab-celltags) - Extension to organise and execute notebooks using cell tags.
 - [code_formatter](https://github.com/ryantam626/jupyterlab_code_formatter) - A universal code formatter.
 - [drawio](https://github.com/QuantStack/jupyterlab-drawio) - Extension that displays drawio/mxgraph diagrams.
-- [git](https://github.com/jupyterlab/jupyterlab-git) - Extension for git integration.
 - [go-to-definition](https://github.com/krassowski/jupyterlab-go-to-definition) - Extension for navigating to the definition of a variable or function in JupyterLab.
 - [google-drive](https://github.com/jupyterlab/jupyterlab-google-drive) - Extension for Google Drive integration.
 - [jupyterlab_email](https://github.com/timkpaine/jupyterlab_email) - Email notebooks and their content from within JupyterLab.

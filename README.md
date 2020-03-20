@@ -24,6 +24,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [Official Resources and Documentation](#official-resources-and-documentation)
 - [Community Resources](#community-resources)
 - [Articles/Guides/Tutorials](#articlesguidestutorials)
+- [Software Architecture](#software-architecture)
 - [Contributing](#contributing)
 
 ---
@@ -198,6 +199,11 @@ is the PyPI trove classifier for Jupyter projects.
 - [pytudes](https://github.com/norvig/pytudes) - List of Jupyter Notebooks by Peter Norvig.
 - [ResGuides: research with Jupyter](https://www.gitbook.com/book/dansand/resguides-research-with-jupyter/details)
 - [Zero to JupyterHub](http://zero-to-jupyterhub.readthedocs.io/en/latest/) - Tutorial to help install and manage JupyterHub.
+
+## Software Architecture
+
+- [How to Grow Neat Software Architecture out of Jupyter Notebooks](https://github.com/guillaume-chevalier/How-to-Grow-Neat-Software-Architecture-out-of-Jupyter-Notebooks) - Let’s see in this article how to grow a neat software architecture from your notebooks.
+- [Growing Neat Software Architecture from Jupyter Notebooks](https://www.youtube.com/watch?v=K4QN27IKr0g) - A video on how to build clean software using notebooks.
 
 ## Contributing
 

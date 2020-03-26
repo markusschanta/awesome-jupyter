@@ -19,6 +19,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [Version Control](#version-control)
 - [JupyterLab Extensions](#jupyterlab-extensions)
 - [Testing](#testing)
+- [Searching](#searching)
 - [Domain-Specific Projects](#domain-specific-projects)
 - [Hosted Notebook Solutions](#hosted-notebook-solutions)
 - [Official Resources and Documentation](#official-resources-and-documentation)
@@ -87,7 +88,6 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [nbconvert](https://nbconvert.readthedocs.io) - Convert Notebooks to other formats.
 - [nbinteract](https://www.nbinteract.com) - Create interactive webpages from Jupyter notebooks.
 - [nbflow](https://github.com/jhamrick/nbflow) - One-button reproducible workflows with Jupyter and Scons.
-- [nbscan](https://github.com/conery/nbscan) - Search for and print cells contents of Jupyter notebooks.
 - [Nikola](https://getnikola.com) - Static Site Generator that converts notebooks into websites.
 - [notedown](https://github.com/aaren/notedown/) - Convert Jupyter notebooks to markdown (and back).
 - [Papermill](https://github.com/nteract/papermill) - Tool for parameterizing, executing, and analyzing Jupyter notebooks.
@@ -136,6 +136,11 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [sphinxcontrib-jupyter](https://github.com/QuantEcon/sphinxcontrib-jupyter) - Sphinx Extension for Generating Jupyter Notebooks.
 - [nosebook](https://github.com/bollwyvl/nosebook) - Nose plugin for finding and running IPython notebooks as nose tests.
 - [treon](https://github.com/ReviewNB/treon) - Easy-to-use test framework for Jupyter Notebooks.
+
+## Searching
+
+- [Kapitsa](https://github.com/gitjeff05/kapitsa) - CLI to search all local Jupyter notebooks.
+- [nbscan](https://github.com/conery/nbscan) - Search for and print cells contents of Jupyter notebooks.
 
 ## Domain-Specific Projects
 

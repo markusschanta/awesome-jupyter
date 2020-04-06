@@ -42,6 +42,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [ML Workspace](https://github.com/ml-tooling/ml-workspace) - Docker image that includes Jupyter(Lab) and various packages for data science/machine learning.
 - [nteract](https://github.com/nteract/nteract) - Native desktop notebook frontend.
 - [Stencila](https://github.com/stencila/stencila) - Native desktop notebook frontend.
+- [voila](https://github.com/voila-dashboards/voila) - Notebooks as interactive standalone web applications.
 
 ## Collaboration/Education
 

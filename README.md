@@ -43,6 +43,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [nteract](https://github.com/nteract/nteract) - Native desktop notebook frontend.
 - [Stencila](https://github.com/stencila/stencila) - Native desktop notebook frontend.
 - [voila](https://github.com/voila-dashboards/voila) - Notebooks as interactive standalone web applications.
+- [Visual Studio Code](https://code.visualstudio.com/docs/python/jupyter-support) - Native desktop notebook frontend.
 
 ## Collaboration/Education
 

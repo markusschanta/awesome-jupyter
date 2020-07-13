@@ -97,6 +97,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [Nikola](https://getnikola.com) - Static Site Generator that converts notebooks into websites.
 - [notedown](https://github.com/aaren/notedown/) - Convert Jupyter notebooks to markdown (and back).
 - [Papermill](https://github.com/nteract/papermill) - Tool for parameterizing, executing, and analyzing Jupyter notebooks.
+- [Ploomber](https://github.com/ploomber/ploomber) - Run a collection of notebooks and scripts in a reproducible manner using a `pipeline.yaml` file.
 - [pynb](https://github.com/minodes/pynb) - Jupyter Notebooks as plain Python code with embedded Markdown text.
 - [RISE](https://github.com/damianavila/RISE) - Reveal.js Jupyter/IPython Slideshow.
 - [rst2ipynb](https://github.com/nthiery/rst-to-ipynb) - Convert standalone reStructuredText files to Jupyter notebook file.

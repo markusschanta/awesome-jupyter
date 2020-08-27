@@ -102,6 +102,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [RISE](https://github.com/damianavila/RISE) - Reveal.js Jupyter/IPython Slideshow.
 - [rst2ipynb](https://github.com/nthiery/rst-to-ipynb) - Convert standalone reStructuredText files to Jupyter notebook file.
 - [Voila](https://github.com/QuantStack/voila) - Rendering of live Jupyter Notebooks with interactive widgets, allowing dashboarding based on Jupyter Notebooks
+- [nbdev](https://nbdev.fast.ai/) - Develop, document, package and distribute Python packages to PyPI using Jupyter Notebooks as a [Literate Programing](https://en.wikipedia.org/wiki/Literate_programming) environment.
 
 ## Version Control
 

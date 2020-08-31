@@ -91,9 +91,9 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [Bookbook](https://github.com/takluyver/bookbook) - Bookbook converts a set of notebooks in a directory to HTML or PDF, preserving cross references within and between notebooks.
 - [Kapitsa](https://github.com/gitjeff05/kapitsa) - CLI to search local Jupyter notebooks.
 - [nbconvert](https://nbconvert.readthedocs.io) - Convert Notebooks to other formats.
-- [nbinteract](https://www.nbinteract.com) - Create interactive webpages from Jupyter notebooks.
-- [nbflow](https://github.com/jhamrick/nbflow) - One-button reproducible workflows with Jupyter and Scons.
 - [nbdev](https://github.com/fastai/nbdev) - Develop, package and distribute Python packages to PyPI using Jupyter as a [Literate Programing](https://en.wikipedia.org/wiki/Literate_programming) environment.
+- [nbflow](https://github.com/jhamrick/nbflow) - One-button reproducible workflows with Jupyter and Scons.
+- [nbinteract](https://www.nbinteract.com) - Create interactive webpages from Jupyter notebooks.
 - [nbscan](https://github.com/conery/nbscan) - Search for and print cells contents of Jupyter notebooks.
 - [Nikola](https://getnikola.com) - Static Site Generator that converts notebooks into websites.
 - [notedown](https://github.com/aaren/notedown/) - Convert Jupyter notebooks to markdown (and back).

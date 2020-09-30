@@ -173,7 +173,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [PAWS](https://wikitech.wikimedia.org/wiki/PAWS) - Jupyter notebook deployment customized for interacting with Wikimedia wikis.
 - [RMOTR Notebooks](https://notebooks.rmotr.com) - JupyterLab-based data science environment in the cloud.
 - [Spell.run](https://spell.run) - End-to-end platform for machine learning and deep learning.
-- [Naas](https://naas.ai) - JupyterLab environment in the cloud with magic functions : Scheduling, api, assets, dependency & secret.
+- [Naas](https://naas.ai) - JupyterLab environment in the cloud with magic functions : Scheduling, api, assets, dependency, notification & secret.
 
 ## Official Resources and Documentation
 

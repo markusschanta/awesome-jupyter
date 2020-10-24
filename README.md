@@ -110,7 +110,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [Jupytext](https://github.com/mwouts/jupytext) - Edit, refactor and version control Jupyter Notebooks represented as scripts or Markdown documents.
 - [nbdime](https://github.com/jupyter/nbdime) - Tools for diffing and merging of Jupyter notebooks.
 - [ReviewNB](https://www.reviewnb.com/) - Code reviews for Jupyter Notebooks.
-- [nbQA](https://github.com/nbQA-dev/nbQA) - Run any standard Python code quality tool on a Jupyter Notebook, from the command-line or via pre-commit
+- [nbQA](https://github.com/nbQA-dev/nbQA) - Run any standard Python code quality tool on a Jupyter Notebook, from the command-line or via pre-commit.
 
 ## JupyterLab Extensions
 

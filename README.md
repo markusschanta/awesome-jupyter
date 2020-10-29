@@ -170,10 +170,11 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [Google Colaboratory](https://research.google.com/colaboratory/unregistered.html) - Cloud-based Jupyter environment aimed at machine learning education and research.
 - [Gryd](https://gryd.us) - Simple, managed, ready-to-use, cloud based Jupyter notebooks supporting multiple languages.
 - [Kyso](https://kyso.io) - Data science platform to publish and share Jupyter notebooks as data blogs and web applications.
+- [Naas](https://naas.ai) - JupyterLab environment with magic scheduling/notification functionaltiy and assets/dependency/secrets management.
 - [PAWS](https://wikitech.wikimedia.org/wiki/PAWS) - Jupyter notebook deployment customized for interacting with Wikimedia wikis.
 - [RMOTR Notebooks](https://notebooks.rmotr.com) - JupyterLab-based data science environment in the cloud.
 - [Spell.run](https://spell.run) - End-to-end platform for machine learning and deep learning.
-- [Naas](https://naas.ai) - JupyterLab environment in the cloud with magic functions : Scheduling, api, assets, dependency, notification & secret.
+
 
 ## Official Resources and Documentation
 
@@ -194,7 +195,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 is the PyPI trove classifier for Jupyter projects.
 - Reddit - Subreddits: [r/IPython](https://www.reddit.com/r/IPython/), [r/Jupyter/](https://www.reddit.com/r/Jupyter/)
 - Stack Overflow - Tags: [jupyter](https://stackoverflow.com/questions/tagged/jupyter), [jupyter-notebook](https://stackoverflow.com/questions/tagged/jupyter-notebook)
-- Awesomes notebooks [Github repo](https://github.com/jupyter-naas/awesome-notebooks)
+
 
 ## Articles/Guides/Tutorials
 

@@ -89,6 +89,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 
 - [Binder](http://mybinder.org) - Turn a GitHub repo into a collection of interactive notebooks.
 - [Bookbook](https://github.com/takluyver/bookbook) - Bookbook converts a set of notebooks in a directory to HTML or PDF, preserving cross references within and between notebooks.
+- [Jupytext](https://github.com/mwouts/jupytext) - Convert and synchronize notebooks with text formats (e.g. Python or Markdown files) that work well under version control.
 - [Kapitsa](https://github.com/gitjeff05/kapitsa) - CLI to search local Jupyter notebooks.
 - [nbconvert](https://nbconvert.readthedocs.io) - Convert Notebooks to other formats.
 - [nbdev](https://github.com/fastai/nbdev) - Develop, package and distribute Python packages to PyPI using Jupyter as a [Literate Programing](https://en.wikipedia.org/wiki/Literate_programming) environment.
@@ -107,7 +108,6 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 ## Version Control
 
 - [git](https://github.com/jupyterlab/jupyterlab-git) - Extension for git integration.
-- [Jupytext](https://github.com/mwouts/jupytext) - Edit, refactor and version control Jupyter Notebooks represented as scripts or Markdown documents.
 - [jupyter-nbrequirements](https://github.com/thoth-station/jupyter-nbrequirements/) - Dependency management and optimization in Jupyter Notebooks.
 - [nbdime](https://github.com/jupyter/nbdime) - Tools for diffing and merging of Jupyter notebooks.
 - [nbQA](https://github.com/nbQA-dev/nbQA) - Run any standard Python code quality tool on a Jupyter Notebook, from the command-line or via pre-commit.

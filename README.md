@@ -55,6 +55,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [jupyter-edx-grader-xblock](https://github.com/ibleducation/jupyter-edx-grader-xblock) - Auto-grade a student assignment created as a Jupyter notebook and write the score in the Open edX gradebook.
 - [LTI Launch JupyterHub Authenticator](https://github.com/jupyterhub/ltiauthenticator) - Authentication via Edx.
 - [nbautoeval](https://github.com/parmentelat/nbautoeval) - Create auto-evaluated exercises.
+- [nbgitpuller](https://github.com/jupyterhub/nbgitpuller) - Sync a git repository one-way to a local path.
 - [nbgrader](https://github.com/jupyter/nbgrader) - Assigning and grading of Jupyter notebooks.
 - [nbtutor](https://github.com/lgpage/nbtutor) - Visualize Python code execution (line-by-line).
 

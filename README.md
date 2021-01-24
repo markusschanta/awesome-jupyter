@@ -32,6 +32,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 
 - [Beaker](http://beakerx.com/) - Development environment with seamless data transmission from one language to another.
 - [docker-stacks](https://github.com/jupyter/docker-stacks) - Hierarchical stacks of ready-to-run Jupyter applications in Docker.
+- [Guild AI](https://my.guild.ai/docs/jupyter-notebook-experiments/) - Execute Notebooks as unique experiments to capture and compare results over time.
 - [Hydrogen](https://github.com/nteract/hydrogen) - Run code inline in Atom using Jupyter kernels.
 - [Jupyter Notebook](https://github.com/jupyter/notebook) - Main Jupyter notebook runtime.
 - [JupyterHub](https://github.com/jupyterhub/jupyterhub) - Multi-user server for Jupyter.
@@ -89,7 +90,6 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 
 - [Binder](http://mybinder.org) - Turn a GitHub repo into a collection of interactive notebooks.
 - [Bookbook](https://github.com/takluyver/bookbook) - Bookbook converts a set of notebooks in a directory to HTML or PDF, preserving cross references within and between notebooks.
-- [Guild AI](https://my.guild.ai/docs/jupyter-notebook-experiments/) - Execute Notebooks as unique experiments to capture and compare results over time.
 - [Jupytext](https://github.com/mwouts/jupytext) - Convert and synchronize notebooks with text formats (e.g. Python or Markdown files) that work well under version control.
 - [Kapitsa](https://github.com/gitjeff05/kapitsa) - CLI to search local Jupyter notebooks.
 - [nbconvert](https://nbconvert.readthedocs.io) - Convert Notebooks to other formats.

@@ -10,6 +10,7 @@ Please ensure your pull request adheres to the following guidelines:
 * Use title-casing (AP style).
 * Use the following format: `[Project Name](Link)`
 * Link additions should be added to the correct alphabetical position of the relevant category.
+* Links to GitHub pages are preferable to external sites (readthedocs.io etc).
 * New categories or improvements to the existing categorization are welcome.
 * Check your spelling and grammar.
 * Make sure your text editor is set to remove trailing whitespace.

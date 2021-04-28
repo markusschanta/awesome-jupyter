@@ -88,7 +88,6 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [xwebrtc](https://github.com/QuantStack/xwebrtc) - C++ Backend for ipywebrtc.
 - [xwidgets](https://github.com/QuantStack/xwidgets) - C++ Backend for ipywidgets.
 
-
 ## Rendering/Publishing/Conversion
 
 - [Binder](http://mybinder.org) - Turn a GitHub repo into a collection of interactive notebooks.

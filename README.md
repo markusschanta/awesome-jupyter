@@ -76,6 +76,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [jp_doodle](https://github.com/AaronWatters/jp_doodle) - Infrastructure for building special purpose interactive diagrams in 2D and 3D.
 - [jupyter-manim](https://github.com/krassowski/jupyter-manim) - Display [manim](https://github.com/3b1b/manim) (Mathematical Animation Engine) videos or GIFs in Jupyter notebooks.
 - [jupyter-gmaps](https://github.com/pbugnion/gmaps) - Interactive visualization library for Google Maps in Jupyter notebooks.
+- [lux](https://github.com/lux-org/lux) - Automatically recommends interesting visualizations whenever a dataframe is printed in Jupyter notebooks.
 - [mpld3](http://mpld3.github.io) - Combining Matplotlib and D3js for interactive data visualizations.
 - [pd-replicator](https://github.com/scwilkinson/pd-replicator) - Copy a pandas DataFrame to the clipboard with one click.
 - [pyecharts](https://github.com/pyecharts/pyecharts) - Python interface for the [ECharts](https://github.com/apache/incubator-echarts) visualization library.
@@ -86,6 +87,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [xleaflet](https://github.com/QuantStack/xleaflet) - C++ Backend for ipyleaflet.
 - [xwebrtc](https://github.com/QuantStack/xwebrtc) - C++ Backend for ipywebrtc.
 - [xwidgets](https://github.com/QuantStack/xwidgets) - C++ Backend for ipywidgets.
+
 
 ## Rendering/Publishing/Conversion
 

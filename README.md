@@ -166,6 +166,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [lolviz](https://github.com/parrt/lolviz) - Data-structure visualization tool for lists of lists, lists, dictionaries.
 - [Quantopian Notebooks](https://www.quantopian.com/notebooks/survey) - Jupyter-based platform for financial research.
 - [vpython-jupyter](https://github.com/BruceSherwood/vpython-jupyter) - VPython 3D engine running in a Jupyter notebook.
+- [keplergl](https://docs.kepler.gl/docs/keplergl-jupyter)- Jupyter extension for visual exploration of large-scale geolocation data sets.
 
 ## Hosted Notebook Solutions
 

@@ -93,7 +93,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [Binder](http://mybinder.org) - Turn a GitHub repo into a collection of interactive notebooks.
 - [Bookbook](https://github.com/takluyver/bookbook) - Bookbook converts a set of notebooks in a directory to HTML or PDF, preserving cross references within and between notebooks.
 - [ContainDS Dashboards](https://github.com/ideonate/cdsdashboards) - JupyterHub extension to host authenticated scripts or notebooks in any framework (Voilà, Streamlit, Plotly Dash etc).
-- [Jupyter Book](https://github.com/executablebooks/jupyter-book) - Jupyter Book is an open-source tool for building publication-quality books and documents from computational material.
+- [Jupyter Book](https://github.com/executablebooks/jupyter-book) - Build publication-quality books and documents from computational material.
 - [Jupytext](https://github.com/mwouts/jupytext) - Convert and synchronize notebooks with text formats (e.g. Python or Markdown files) that work well under version control.
 - [jut](https://github.com/kracekumar/jut) - CLI to nicely display notebooks in the terminal.
 - [Kapitsa](https://github.com/gitjeff05/kapitsa) - CLI to search local Jupyter notebooks.

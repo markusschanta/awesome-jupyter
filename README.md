@@ -12,19 +12,21 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 
 ## Contents
 
-- [Runtimes/Frontends](#runtimesfrontends)
-- [Collaboration/Education](#collaborationeducation)
-- [Visualization](#visualization)
-- [Rendering/Publishing/Conversion](#renderingpublishingconversion)
-- [Version Control](#version-control)
-- [JupyterLab Extensions](#jupyterlab-extensions)
-- [Testing](#testing)
-- [Domain-Specific Projects](#domain-specific-projects)
-- [Hosted Notebook Solutions](#hosted-notebook-solutions)
-- [Official Resources and Documentation](#official-resources-and-documentation)
-- [Community Resources](#community-resources)
-- [Articles/Guides/Tutorials](#articlesguidestutorials)
-- [Contributing](#contributing)
+- [Awesome Jupyter ![Awesome](https://awesome.re)](#awesome-jupyter-)
+	- [Contents](#contents)
+	- [Runtimes/Frontends](#runtimesfrontends)
+	- [Collaboration/Education](#collaborationeducation)
+	- [Visualization](#visualization)
+	- [Rendering/Publishing/Conversion](#renderingpublishingconversion)
+	- [Version Control](#version-control)
+	- [JupyterLab Extensions](#jupyterlab-extensions)
+	- [Testing](#testing)
+	- [Domain-Specific Projects](#domain-specific-projects)
+	- [Hosted Notebook Solutions](#hosted-notebook-solutions)
+	- [Official Resources and Documentation](#official-resources-and-documentation)
+	- [Community Resources](#community-resources)
+	- [Articles/Guides/Tutorials](#articlesguidestutorials)
+	- [Contributing](#contributing)
 
 ---
 
@@ -67,6 +69,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [bqplot](https://github.com/bloomberg/bqplot) - Grammar of Graphics-based interactive plotting framework for Jupyter.
 - [Evidently](https://github.com/evidentlyai/evidently) - Interactive reports to analyze machine learning models during validation or production monitoring.
 - [IPySigma](https://github.com/bsnacks000/IPySigma-Demo) - Prototype network visualization frontend for Jupyter notebooks.
+- [ipychart](https://github.com/nicohlr/ipychart) - Chart.js interactive plots in Jupyter notebooks.
 - [ipyleaflet](https://github.com/jupyter-widgets/ipyleaflet) - Interactive visualization library for Leaflet.js maps in Jupyter notebooks.
 - [ipysheet](https://github.com/QuantStack/ipysheet/) - Interactive spreadsheets in Jupyter.
 - [ipytree](https://github.com/QuantStack/ipytree/) - Tree UI element for Jupyter.

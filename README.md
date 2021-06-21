@@ -67,7 +67,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [bqplot](https://github.com/bloomberg/bqplot) - Grammar of Graphics-based interactive plotting framework for Jupyter.
 - [Evidently](https://github.com/evidentlyai/evidently) - Interactive reports to analyze machine learning models during validation or production monitoring.
 - [IPySigma](https://github.com/bsnacks000/IPySigma-Demo) - Prototype network visualization frontend for Jupyter notebooks.
-- [ipychart](https://github.com/nicohlr/ipychart) - Chart.js interactive plots in Jupyter notebooks.
+- [ipychart](https://github.com/nicohlr/ipychart) - Interactive Chart.js plots in Jupyter.
 - [ipyleaflet](https://github.com/jupyter-widgets/ipyleaflet) - Interactive visualization library for Leaflet.js maps in Jupyter notebooks.
 - [ipysheet](https://github.com/QuantStack/ipysheet/) - Interactive spreadsheets in Jupyter.
 - [ipytree](https://github.com/QuantStack/ipytree/) - Tree UI element for Jupyter.

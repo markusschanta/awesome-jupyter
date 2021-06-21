@@ -111,6 +111,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [RISE](https://github.com/damianavila/RISE) - Reveal.js Jupyter/IPython Slideshow.
 - [rst2ipynb](https://github.com/nthiery/rst-to-ipynb) - Convert standalone reStructuredText files to Jupyter notebook file.
 - [Voila](https://github.com/QuantStack/voila) - Rendering of live Jupyter Notebooks with interactive widgets, allowing dashboarding based on Jupyter Notebooks
+- [Ganimede](https://github.com/manugraj/ganimede) - Store,Version, Edit, Update, Execute Jupyter notebooks in sandboxes and integrate directly into product via ReST interfaces.
 
 ## Version Control
 

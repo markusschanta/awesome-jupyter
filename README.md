@@ -144,6 +144,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [sidecar](https://github.com/jupyter-widgets/jupyterlab-sidecar) - A sidecar output widget for JupyterLab.
 - [sql](https://github.com/pbugnion/jupyterlab-sql) - SQL GUI for JupyterLab.
 - [system-monitor](https://github.com/jtpio/jupyterlab-system-monitor) - Extension to display system metrics.
+- [tabnine](https://github.com/codota/tabnine-jupyterlab) - Tabnine AI auto completer extension.
 - [templates](https://github.com/timkpaine/jupyterlab_templates) - Support for Jupyter Notebook templates.
 - [theme-darcula](https://github.com/telamonian/theme-darcula) - A handsome Darcula theme for Jupyterlab.
 - [toc](https://github.com/jupyterlab/jupyterlab-toc) - Extension that provides a table of contents for notebooks.

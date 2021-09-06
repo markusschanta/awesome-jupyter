@@ -121,6 +121,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [nbdime](https://github.com/jupyter/nbdime) - Tools for diffing and merging of Jupyter notebooks.
 - [nbQA](https://github.com/nbQA-dev/nbQA) - Run any standard Python code quality tool on a Jupyter Notebook, from the command-line or via pre-commit.
 - [ReviewNB](https://www.reviewnb.com/) - Code reviews for Jupyter Notebooks.
+- [Neptune](https://docs.neptune.ai/integrations-and-supported-tools/ide-and-notebooks/jupyter-lab-and-jupyter-notebook) - Jupyter integration lets you version, manage, and share notebook checkpoints in your projects.
 
 ## JupyterLab Extensions
 

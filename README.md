@@ -38,8 +38,6 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [JupyterHub](https://github.com/jupyterhub/jupyterhub) - Multi-user server for Jupyter.
 - [JupyterLab](https://github.com/jupyterlab/jupyterlab) - JupyterLab is the next generation user interface for Jupyter.
 - [JupyterWith](https://github.com/tweag/jupyterWith) - Nix-based framework for the definition of declarative and reproducible Jupyter environments.
-- [jupyterlab-notifications](https://github.com/mwakaba2/jupyterlab-notifications) - Customizable Notebook Cell Completion Browser Notifications for JupyterLab.
-- [ShopRunner/jupyter-notify](https://github.com/ShopRunner/jupyter-notify) - Cell magic for browser notification of cell completion.
 - [kaggle/docker-python](https://github.com/kaggle/docker-python) - Kaggle Python docker image that includes datasets and packages.
 - [ML Workspace](https://github.com/ml-tooling/ml-workspace) - Docker image that includes Jupyter(Lab) and various packages for data science/machine learning.
 - [nteract](https://github.com/nteract/nteract) - Native desktop notebook frontend.
@@ -135,7 +133,9 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [jupyterlab_email](https://github.com/timkpaine/jupyterlab_email) - Email notebooks and their content from within JupyterLab.
 - [jupyterlab-executor](https://github.com/gavincyi/jupyterlab-executor) - Extension to execute scripts from the Jupyterlab file browser.
 - [jupyterlab-kyso](https://github.com/kyso-io/jupyterlab-extension) - Extension to publish notebooks to the [Kyso](https://kyso.io) platform from Jupyterlab.
+- [jupyterlab-notifications](https://github.com/mwakaba2/jupyterlab-notifications) - Customizable notebook cell completion browser notifications for JupyterLab.
 - [jupyterlab_templates](https://github.com/jpmorganchase/jupyterlab_templates) - Notebook templates in JupyterLab.
+- [jupyter-notify](https://github.com/ShopRunner/jupyter-notify) - Cell magic for browser notification of cell completion.
 - [latex](https://github.com/jupyterlab/jupyterlab-latex) - Extension for live editing of LaTeX documents.
 - [lsp](https://github.com/krassowski/jupyterlab-lsp) - IDE-like features (code navigation, hover suggestions, linters, diagnostics, kernel-less autocompletion etc.)
 - [nb_black](https://github.com/dnanhkhoa/nb_black) - Extension to keep Python code automatically formatted using [black](https://github.com/psf/black).

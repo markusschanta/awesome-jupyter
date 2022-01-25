@@ -189,6 +189,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [Gryd](https://gryd.us) - Simple, managed, ready-to-use, cloud based Jupyter notebooks supporting multiple languages.
 - [Kyso](https://kyso.io) - Data science platform to publish and share Jupyter notebooks as data blogs and web applications.
 - [Naas](https://naas.ai) - JupyterLab environment with magic scheduling/notification functionaltiy and assets/dependency/secrets management.
+- [Paperspace Gradient](https://gradient.run/) - A Jupyter-backed data science IDE with accelerated hardware (GPUs) and MLOps functionality.
 - [PAWS](https://wikitech.wikimedia.org/wiki/PAWS) - Jupyter notebook deployment customized for interacting with Wikimedia wikis.
 - [RMOTR Notebooks](https://notebooks.rmotr.com) - JupyterLab-based data science environment in the cloud.
 - [Spell.run](https://spell.run) - End-to-end platform for machine learning and deep learning.

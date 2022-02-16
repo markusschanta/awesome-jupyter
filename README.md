@@ -115,6 +115,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 
 ## Version Control
 
+- [databooks](https://github.com/datarootsio/databooks) - A command-line utility that eases versioning and sharing of notebooks. 
 - [git](https://github.com/jupyterlab/jupyterlab-git) - Extension for git integration.
 - [jupyter-nbrequirements](https://github.com/thoth-station/jupyter-nbrequirements/) - Dependency management and optimization in Jupyter Notebooks.
 - [nbdime](https://github.com/jupyter/nbdime) - Tools for diffing and merging of Jupyter notebooks.

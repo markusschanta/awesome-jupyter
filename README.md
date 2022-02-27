@@ -146,6 +146,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [shortcutui](https://github.com/jupyterlab/jupyterlab-shortcutui) - An extension for managing keyboard shortcuts.
 - [sidecar](https://github.com/jupyter-widgets/jupyterlab-sidecar) - A sidecar output widget for JupyterLab.
 - [sql](https://github.com/pbugnion/jupyterlab-sql) - SQL GUI for JupyterLab.
+- [stickyland](https://github.com/xiaohk/stickyland) - Break the linear presentation of notebooks with sticky cells.
 - [system-monitor](https://github.com/jtpio/jupyterlab-system-monitor) - Extension to display system metrics.
 - [tabnine](https://github.com/codota/tabnine-jupyterlab) - Tabnine AI auto completer extension.
 - [templates](https://github.com/timkpaine/jupyterlab_templates) - Support for Jupyter Notebook templates.

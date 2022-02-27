@@ -146,6 +146,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [shortcutui](https://github.com/jupyterlab/jupyterlab-shortcutui) - An extension for managing keyboard shortcuts.
 - [sidecar](https://github.com/jupyter-widgets/jupyterlab-sidecar) - A sidecar output widget for JupyterLab.
 - [sql](https://github.com/pbugnion/jupyterlab-sql) - SQL GUI for JupyterLab.
+- [stickyland](https://github.com/xiaohk/stickyland) - Break the linear presentation of notebooks with sticky cells.
 - [system-monitor](https://github.com/jtpio/jupyterlab-system-monitor) - Extension to display system metrics.
 - [tabnine](https://github.com/codota/tabnine-jupyterlab) - Tabnine AI auto completer extension.
 - [templates](https://github.com/timkpaine/jupyterlab_templates) - Support for Jupyter Notebook templates.
@@ -182,6 +183,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [Azure Notebooks](https://notebooks.azure.com) - Jupyter notebooks running in the cloud on Microsoft Azure.
 - [CoCalc](https://cocalc.com) - Notebooks with 17 supported kernel types, course management, LaTeX document authoring, simultaneous document editing and integration with the SageMath computer algebra system.
 - [DataBlogs](https://www.datablogs.co/) - DataBlogs is an open-source data journalism platform that converts Jupyter notebooks into published articles on the web.
+- [DataCamp Workspace](https://www.datacamp.com/workspace) - Jupyter-backed data science notebooks with built-in collaboration and publishing functionality.
 - [DataScience.com](https://www.datascience.com) - Platform for enterprise data science.
 - [Deepnote](https://www.deepnote.com) - Jupyter-compatible data science notebook with real-time collaboration, versioning and easy deployment.
 - [Domino Data Lab](https://www.dominodatalab.com) - Data science platform with integrated collaboration tools, environment management and compute grid.

@@ -67,7 +67,8 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [IPySigma](https://github.com/bsnacks000/IPySigma-Demo) - Prototype network visualization frontend for Jupyter notebooks.
 - [ipychart](https://github.com/nicohlr/ipychart) - Interactive Chart.js plots in Jupyter.
 - [ipycytoscape](https://github.com/cytoscape/ipycytoscape) - Widget for interactive graph visualization in Jupyter using cytoscape.js.
-- [ipydagred3](https://github.com/timkpaine/ipydagred3) - ipywidgets library for drawing directed acyclic graphs in jupyterlab using dagre-d3.
+<!--lint ignore double-link-->
+- [ipydagred3](https://github.com/timkpaine/ipydagred3) - [ipywidgets](https://github.com/jupyter-widgets/ipywidgets) library for drawing directed acyclic graphs in jupyterlab using dagre-d3.
 - [ipyleaflet](https://github.com/jupyter-widgets/ipyleaflet) - Interactive visualization library for Leaflet.js maps in Jupyter notebooks.
 - [ipysheet](https://github.com/QuantStack/ipysheet/) - Interactive spreadsheets in Jupyter.
 - [ipyregulartable](https://github.com/jpmorganchase/ipyregulartable) - High performance, editable, stylable datagrids in Jupyter.

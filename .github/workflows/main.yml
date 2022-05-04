@@ -30,3 +30,7 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Run awesome-lint
         run: npx awesome-lint
+
+      # Runs a set of commands using the runners shell
+      - name: Run remark-lint-alphabetize-lists
+        run: npx remark -q -f --use remark-lint-alphabetize-lists README.md

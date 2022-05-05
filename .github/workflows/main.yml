@@ -37,4 +37,4 @@ jobs:
 
       # Runs a set of commands using the runners shell
       - name: Run remark-lint-alphabetize-lists
-        run: npx remark -q -f --use remark-lint-alphabetize-lists README.md
+        run: npx remark -q -f --use remark-preset-lint-consistent --use remark-lint-alphabetize-lists README.md

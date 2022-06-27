@@ -214,6 +214,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 
 - [Jupyter kernels](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels) - List of all programming languages available as Jupyter kernels.
 - [JupyterLab Documentation](http://jupyterlab.readthedocs.io/en/stable/index.html)
+- [Jupyter Project Documentation](https://docs.jupyter.org/en/latest/index.html)
 - [Making kernels for Jupyter](https://jupyter-client.readthedocs.io/en/latest/kernels.html)
 - [Try Jupyter](https://try.jupyter.org) - Try Jupyter in your browser.
 

@@ -72,6 +72,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [ipysheet](https://github.com/QuantStack/ipysheet/) - Interactive spreadsheets in Jupyter.
 - [IPySigma](https://github.com/bsnacks000/IPySigma-Demo) - Prototype network visualization frontend for Jupyter notebooks.
 - [ipytree](https://github.com/QuantStack/ipytree/) - Tree UI element for Jupyter.
+- [ipyvizzu](https://github.com/vizzuhq/ipyvizzu) - Animated data storytelling tool.
 - [ipyvolume](https://github.com/maartenbreddels/ipyvolume) - 3D plotting for Python in Jupyter based on widgets and WebGL.
 - [ipywebrtc](https://github.com/maartenbreddels/ipywebrtc) - Video/Audio streaming in Jupyter. <!--lint disable double-link-->
 - [ipywidgets](https://github.com/jupyter-widgets/ipywidgets) - UI widgets for Jupyter.  <!--lint enable double-link-->

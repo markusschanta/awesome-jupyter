@@ -201,7 +201,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [Domino Data Lab](https://www.dominodatalab.com) - Data science platform with integrated collaboration tools, environment management and compute grid.
 - [Google Cloud AI Platform Notebooks](https://cloud.google.com/ai-platform-notebooks) - Managed JupyterLab notebook instances configured with GPU-enabled machine learning frameworks on Google Cloud Platform.
 - [Google Cloud Dataproc Jupyter component](https://cloud.google.com/dataproc/docs/concepts/components/jupyter) - Jupyter and JupyterLab for Apache Spark using Google Cloud Dataproc.
-- [Google Colaboratory](https://colab.research.google.com) - Cloud-based Jupyter environment aimed at machine learning education and research.
+- [Google Colaboratory](https://colab.research.google.com) - Cloud-based Jupyter environment aimed at machine learning education and research.  <!--lint disable double-link-->
 - [Kyso](https://kyso.io) - Data science platform to publish and share Jupyter notebooks as data blogs and web applications.  <!--lint enable double-link-->
 - [Naas](https://naas.ai) - JupyterLab environment with magic scheduling/notification functionality and assets/dependency/secrets management.
 - [Paperspace Gradient](https://gradient.run/) - A Jupyter-backed data science IDE with accelerated hardware (GPUs) and MLOps functionality.

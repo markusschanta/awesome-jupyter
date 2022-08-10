@@ -229,6 +229,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 is the PyPI trove classifier for Jupyter projects.
 - Reddit - Subreddits: [r/IPython](https://www.reddit.com/r/IPython/), [r/Jupyter/](https://www.reddit.com/r/Jupyter/)
 - Stack Overflow - Tags: [jupyter](https://stackoverflow.com/questions/tagged/jupyter), [jupyter-notebook](https://stackoverflow.com/questions/tagged/jupyter-notebook)
+- Explore Jupyter (https://kandi.openweaver.com/explore/jupyter%20notebook)) - Discover & find a curated list of popular & new Jupyter libraries across all languages, top authors, trending project kits, discussions, tutorials & learning resources. 
 
 
 ## Articles/Guides/Tutorials

@@ -223,13 +223,13 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - GitHub - Search: [jupyter](https://github.com/search?type=Repositories&q=jupyter)
 - GitHub - Topics: [jupyter](https://github.com/topics/jupyter), [jupyter-kernels](https://github.com/topics/jupyter-kernels), [jupyter-notebook](https://github.com/topics/jupyter-notebook), [jupyterhub](https://github.com/topics/jupyterhub), [jupyterlab](https://github.com/topics/jupyterlab), [jupyterlab-extension](https://github.com/topics/jupyterlab-extension)
 - Gitter - [Jupyter Gitter Chatroom](https://gitter.im/jupyter/jupyter)
-- [jupyter-map](https://elc.github.io/jupyter-map/) - Map of university institutions that use Jupyter.  <!--lint disable double-link-->
+- [jupyter-map](https://elc.github.io/jupyter-map/) - Map of university institutions that use Jupyter.
+- [kandi Kits Topic](https://kandi.openweaver.com/explore/jupyter) - Discover popular Jupyter libraries, top authors, trending project kits, discussions, tutorials & learning resources.  <!--lint disable double-link-->
 - Mailing Lists - [Jupyter General Mailing List](https://groups.google.com/forum/#!forum/jupyter), [Jupyter in Education Mailing List](https://groups.google.com/forum/#!forum/jupyter-education) <!--lint enable double-link-->
 - PyPI - [``Framework :: Jupyter``](https://pypi.org/search/?&c=Framework+%3A%3A+Jupyter)
 is the PyPI trove classifier for Jupyter projects.
 - Reddit - Subreddits: [r/IPython](https://www.reddit.com/r/IPython/), [r/Jupyter/](https://www.reddit.com/r/Jupyter/)
 - Stack Overflow - Tags: [jupyter](https://stackoverflow.com/questions/tagged/jupyter), [jupyter-notebook](https://stackoverflow.com/questions/tagged/jupyter-notebook)
-- Explore Jupyter (https://kandi.openweaver.com/explore/jupyter%20notebook)) - Discover & find a curated list of popular & new Jupyter libraries across all languages, top authors, trending project kits, discussions, tutorials & learning resources. 
 
 
 ## Articles/Guides/Tutorials

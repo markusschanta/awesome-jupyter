@@ -1,4 +1,4 @@
-# Awesome Jupyter [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Jupyter [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmarkusschanta%2Fawesome-jupyter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and resources. Jupyter is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text.
 

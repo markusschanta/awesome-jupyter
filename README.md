@@ -6,6 +6,8 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 	<br>
 	<img width="400" src="https://raw.githubusercontent.com/adebar/awesome-jupyter/master/logo.png" alt="Jupyter logo">
 	<br>
+	<br>
+🎉 We have a new "sister"-asweome list everything related to Keras: You can find it <a href="https://github.com/markusschanta/awesome-keras"><strong>here</strong></a>! 🎉
 </div>
 
 ## Contents

@@ -138,7 +138,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [debugger](https://github.com/jupyterlab/debugger) - A visual debugger for Jupyter notebooks, consoles, and source files.
 - [drawio](https://github.com/QuantStack/jupyterlab-drawio) - Extension that displays drawio/mxgraph diagrams.
 - [elyra](https://github.com/elyra-ai/elyra) - A visual editor for creating and running notebook (or Python script) pipelines locally or remotely.
-- [genv](https://github.com/run-ai/jupyterlab_genv) - Extension for managing GPU environments in JupyterLab
+- [genv](https://github.com/run-ai/jupyterlab_genv) - Extension for managing GPU environments in JupyterLab.
 - [go-to-definition](https://github.com/krassowski/jupyterlab-go-to-definition) - Extension for navigating to the definition of a variable or function in JupyterLab.
 - [google-drive](https://github.com/jupyterlab/jupyterlab-google-drive) - Extension for Google Drive integration.
 - [jupyter-fs](https://github.com/jpmorganchase/jupyter-fs) - A filesystem-like content manager for multiple backends in Jupyter.

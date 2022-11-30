@@ -271,4 +271,4 @@ is the PyPI trove classifier for Jupyter projects.
 
 ## Contributing
 
-Your contributions are always welcome! Please take a look at the [contribution guidelines](assets/CONTRIBUTING.md) first.
+Your contributions are always welcome! Please take a look at the [contribution guidelines](CONTRIBUTING.md) first.

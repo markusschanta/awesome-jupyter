@@ -4,7 +4,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 
 <div align="center" style="border-bottom: 0px;">
 	<br>
-	<img width="400" src="https://raw.githubusercontent.com/adebar/awesome-jupyter/master/logo.png" alt="Jupyter logo">
+	<img width="400" src="assets/logo.png" alt="Jupyter logo">
 	<br>
 	<br>
 </div>
@@ -271,4 +271,4 @@ is the PyPI trove classifier for Jupyter projects.
 
 ## Contributing
 
-Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/adebar/awesome-jupyter/blob/master/CONTRIBUTING.md) first.
+Your contributions are always welcome! Please take a look at the [contribution guidelines](assets/CONTRIBUTING.md) first.

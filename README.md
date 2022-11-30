@@ -12,15 +12,15 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 ---
 
 <div align="center" style="border-bottom: 0px;">
-	<sub>Awesome Jupyter is proudly supported by the following sponsors:</sub>
+	<sub>Awesome Jupyter is proudly supported by our sponsor:</sub>
 	<br>
 	<br>
-	<img width="300" src="https://mms.businesswire.com/media/20220131005531/en/1343729/4/logo-full-dark.jpg?download=1" alt="Deepnote logo">
+	<a href="https://deepnote.com/?utm_source=github&utm_medium=promo&utm_campaign=awesomejupyter"><img width="300" src="assets/deepnote.jpeg" alt="Deepnote logo"></a>
 	<br>
 	<br>
-	<b>Data science notebook for teams.</b>
+	<b>Deepnote is a collaborative data science notebook built for teams.</b>
 	<div>
-	<sub>Deepnote is a new kind of data notebook that’s built for collaboration — Jupyter compatible, works magically in the cloud, and sharing is easy as sending a link.</sub>
+	<sub>Explore data with Python & SQL from your browser. Add context with data visualizations and rich text editing. Share your work by simply sending a link.</br> <a href="https://deepnote.com/?utm_source=github&utm_medium=promo&utm_campaign=awesomejupyter">Check it out on the Deepnote free plan.</a></sub>
 	</div>
 </div>
 

@@ -20,7 +20,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 	<br>
 	<b>Deepnote is a collaborative data science notebook built for teams.</b>
 	<div>
-	<sub>Explore data with Python & SQL from your browser. Add context with data visualizations and rich text editing. Share your work by simply sending a link.</br> <a href="https://deepnote.com/?utm_source=github&utm_medium=promo&utm_campaign=awesomejupyter">Check it out on the Deepnote free plan.</a></sub>
+	<sub>Explore data with Python & SQL from your browser. Add context with data visualizations and rich text editing. Share your work by simply sending a link. <a href="https://deepnote.com/?utm_source=github&utm_medium=promo&utm_campaign=awesomejupyter">Check it out on the Deepnote free plan.</a></sub>
 	</div>
 </div>
 

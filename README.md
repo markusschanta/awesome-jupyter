@@ -7,8 +7,24 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 	<img width="400" src="https://raw.githubusercontent.com/adebar/awesome-jupyter/master/logo.png" alt="Jupyter logo">
 	<br>
 	<br>
-🎉 We have a new "sister"-asweome list with everything related to Keras: You can find it <a href="https://github.com/markusschanta/awesome-keras"><strong>here</strong></a>! 🎉
 </div>
+
+---
+
+<div align="center" style="border-bottom: 0px;">
+	<sub>Awesome Jupyter is proudly supported by our sponsor:</sub>
+	<br>
+	<br>
+	<a href="https://deepnote.com/?utm_source=github&utm_medium=promo&utm_campaign=awesomejupyter"><img width="300" src="assets/deepnote.jpeg" alt="Deepnote logo"></a>
+	<br>
+	<br>
+	<b>Deepnote is a collaborative data science notebook built for teams.</b>
+	<div>
+	<sub>Explore data with Python & SQL from your browser. Add context with data visualizations and rich text editing. Share your work by simply sending a link.</br> <a href="https://deepnote.com/?utm_source=github&utm_medium=promo&utm_campaign=awesomejupyter">Check it out on the Deepnote free plan.</a></sub>
+	</div>
+</div>
+
+---
 
 ## Contents
 

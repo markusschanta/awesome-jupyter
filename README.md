@@ -131,6 +131,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [nbscan](https://github.com/conery/nbscan) - Search for and print cells contents of Jupyter notebooks.
 - [Nikola](https://getnikola.com) - Static Site Generator that converts notebooks into websites.
 - [notedown](https://github.com/aaren/notedown/) - Convert Jupyter notebooks to markdown (and back).
+- [Panel](https://github.com/github/panel) - Create interactive tools and data apps from Jupyter Notebooks. Can be distributed as server apps, client side apps (via pyodide) or static HTML/ Javascript files.
 - [Papermill](https://github.com/nteract/papermill) - Tool for parameterizing, executing, and analyzing Jupyter notebooks.
 - [Ploomber](https://github.com/ploomber/ploomber) - Run a collection of notebooks and scripts in a reproducible manner using a `pipeline.yaml` file.
 - [pynb](https://github.com/minodes/pynb) - Jupyter Notebooks as plain Python code with embedded Markdown text.

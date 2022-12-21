@@ -3,8 +3,7 @@ name: Traffic
 
 on:
   schedule: 
-    # runs once a week on sunday
-    - cron: "55 23 * * 0"
+    - cron: "55 23 * * *"
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:

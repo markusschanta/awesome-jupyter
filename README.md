@@ -58,7 +58,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [kaggle/docker-python](https://github.com/kaggle/docker-python) - Kaggle Python docker image that includes datasets and packages.
 - [ML Workspace](https://github.com/ml-tooling/ml-workspace) - Docker image that includes Jupyter(Lab) and various packages for data science/machine learning.
 - [nteract](https://github.com/nteract/nteract) - Native desktop notebook frontend.
-- [Panel](https://github.com/holoviz/panel) - Notebooks as interactive, standalone data apps and web applications.
+- [Panel](https://github.com/holoviz/panel) - Notebooks as interactive, standalone data apps and web applications. Can be distributed as server apps, client side apps (via pyodide) or static HTML/ JavaScript files.
 - [Stencila](https://github.com/stencila/stencila) - Native desktop notebook frontend.
 - [Visual Studio Code](https://code.visualstudio.com/docs/python/jupyter-support) - Native desktop notebook frontend.
 - [voila](https://github.com/voila-dashboards/voila) - Notebooks as interactive standalone web applications.

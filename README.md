@@ -57,8 +57,8 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [JupyterWith](https://github.com/tweag/jupyterWith) - Nix-based framework for the definition of declarative and reproducible Jupyter environments.
 - [kaggle/docker-python](https://github.com/kaggle/docker-python) - Kaggle Python docker image that includes datasets and packages.
 - [ML Workspace](https://github.com/ml-tooling/ml-workspace) - Docker image that includes Jupyter(Lab) and various packages for data science/machine learning.
-- [nteract](https://github.com/nteract/nteract) - Native desktop notebook frontend.
-- [Panel](https://github.com/holoviz/panel) - Notebooks as interactive, standalone data apps and web applications. Can be distributed as server apps, client side apps (via pyodide) or static HTML/ JavaScript files.
+- [nteract](https://github.com/nteract/nteract) - Native desktop notebook frontend. <!--lint disable double-link-->
+- [PaneLite](https://panelite.holoviz.org) - A distribution of [JupyterLite](https://jupyterlite.readthedocs.io/en/latest/) that works with [Panel](https://panel.holoviz.org) and the [HoloViz](https://holoviz.org) ecosystem. <!--lint enable double-link-->
 - [Stencila](https://github.com/stencila/stencila) - Native desktop notebook frontend.
 - [Visual Studio Code](https://code.visualstudio.com/docs/python/jupyter-support) - Native desktop notebook frontend.
 - [voila](https://github.com/voila-dashboards/voila) - Notebooks as interactive standalone web applications.
@@ -160,7 +160,8 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [go-to-definition](https://github.com/krassowski/jupyterlab-go-to-definition) - Extension for navigating to the definition of a variable or function in JupyterLab.
 - [google-drive](https://github.com/jupyterlab/jupyterlab-google-drive) - Extension for Google Drive integration.
 - [jupyter-fs](https://github.com/jpmorganchase/jupyter-fs) - A filesystem-like content manager for multiple backends in Jupyter.
-- [jupyter-notify](https://github.com/ShopRunner/jupyter-notify) - Cell magic for browser notification of cell completion.
+- [jupyter-notify](https://github.com/ShopRunner/jupyter-notify) - Cell magic for browser notification of cell completion. <!--lint disable double-link-->
+- [jupyter-panel-proxy](https://github.com/holoviz/jupyter-panel-proxy) - Automatically serve notebooks as [Panel](https://panel.holoviz.org) data apps at the `/panel` endpoint of your Jupyter server. <!--lint enable double-link-->
 - [jupyterlab-executor](https://github.com/gavincyi/jupyterlab-executor) - Extension to execute scripts from the Jupyterlab file browser. <!--lint disable double-link-->
 - [jupyterlab-kyso](https://github.com/kyso-io/jupyterlab-extension) - Extension to publish notebooks to the [Kyso](https://kyso.io) platform from Jupyterlab. <!--lint enable double-link-->
 - [jupyterlab-notifications](https://github.com/mwakaba2/jupyterlab-notifications) - Customizable notebook cell completion browser notifications for JupyterLab.

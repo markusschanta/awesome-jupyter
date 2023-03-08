@@ -232,6 +232,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [Paperspace Gradient](https://gradient.run/) - A Jupyter-backed data science IDE with accelerated hardware (GPUs) and MLOps functionality.
 - [PAWS](https://wikitech.wikimedia.org/wiki/PAWS) - Jupyter notebook deployment customized for interacting with Wikimedia wikis.
 - [Spell.run](https://spell.run) - End-to-end platform for machine learning and deep learning.
+- [Minep.app](https://mineo.app) - Data ops platform with Jupyter compatible notebooks powered by no code blocks and support to create dashboards from notebooks.  <!--lint enable double-link-->
 
 
 ## Official Resources and Documentation

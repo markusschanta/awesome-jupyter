@@ -234,6 +234,8 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [Paperspace Gradient](https://gradient.run/) - A Jupyter-backed data science IDE with accelerated hardware (GPUs) and MLOps functionality.
 - [PAWS](https://wikitech.wikimedia.org/wiki/PAWS) - Jupyter notebook deployment customized for interacting with Wikimedia wikis.
 - [Spell.run](https://spell.run) - End-to-end platform for machine learning and deep learning.
+- [Saturn Cloud](https://saturncloud.io/) - Move your data science team into the cloud without having to switch tools.
+- [Noteable](https://noteable.io/) - Noteable is a collaborative data notebook to combine code (SQL, Python, & R), and interactive visualizations.
 
 
 ## Official Resources and Documentation

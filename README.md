@@ -231,11 +231,10 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [Kyso](https://kyso.io) - Data science platform to publish and share Jupyter notebooks as data blogs and web applications.  <!--lint enable double-link-->
 - [Mineo.app](https://mineo.app) - Data Ops platform with Jupyter-compatible notebooks, no code blocks, and support for creating dashboards.
 - [Naas](https://naas.ai) - JupyterLab environment with magic scheduling/notification functionality and assets/dependency/secrets management.
-- [Noteable](https://noteable.io/) - Noteable is a collaborative data notebook to combine code (SQL, Python, & R), and interactive visualizations.
+- [Noteable](https://noteable.io/) - Noteable is a collaborative notebook to combine code (SQL, Python & R) and interactive visualizations.
 - [Paperspace Gradient](https://gradient.run/) - A Jupyter-backed data science IDE with accelerated hardware (GPUs) and MLOps functionality.
 - [PAWS](https://wikitech.wikimedia.org/wiki/PAWS) - Jupyter notebook deployment customized for interacting with Wikimedia wikis.
 - [Saturn Cloud](https://saturncloud.io/) - Move your data science team into the cloud without having to switch tools.
-
 
 ## Official Resources and Documentation
 

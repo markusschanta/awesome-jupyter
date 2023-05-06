@@ -85,6 +85,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [anywidget](https://anywidget.dev) - A Python library that simplifies creating and publishing custom Jupyter widgets. 
 - [Bokeh](https://bokeh.pydata.org/en/latest/) - Interactive visualization library that targets modern web browsers for presentation.
 - [bqplot](https://github.com/bloomberg/bqplot) - Grammar of Graphics-based interactive plotting framework for Jupyter.
+- [buckaroo](https://github.com/paddymul/buckaroo) - GUI Data Wrangling tool for Jupyter and Pandas.
 - [Evidently](https://github.com/evidentlyai/evidently) - Interactive reports to analyze machine learning models during validation or production monitoring.
 - [hvplot](https://hvplot.holoviz.org/) - A familiar and high-level API for data exploration and visualization in Jupyter.
 - [ipychart](https://github.com/nicohlr/ipychart) - Interactive Chart.js plots in Jupyter.
@@ -115,6 +116,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [xleaflet](https://github.com/QuantStack/xleaflet) - C++ Backend for ipyleaflet.
 - [xwebrtc](https://github.com/QuantStack/xwebrtc) - C++ Backend for ipywebrtc.
 - [xwidgets](https://github.com/QuantStack/xwidgets) - C++ Backend for ipywidgets.
+
 
 ## Rendering/Publishing/Conversion
 

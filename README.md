@@ -115,6 +115,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [xleaflet](https://github.com/QuantStack/xleaflet) - C++ Backend for ipyleaflet.
 - [xwebrtc](https://github.com/QuantStack/xwebrtc) - C++ Backend for ipywebrtc.
 - [xwidgets](https://github.com/QuantStack/xwidgets) - C++ Backend for ipywidgets.
+- [buckaroo](https://github.com/paddymul/buckaroo) - GUI Data Wrangling tool for Jupyter and Pandas
 
 ## Rendering/Publishing/Conversion
 

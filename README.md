@@ -92,8 +92,6 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [ipycytoscape](https://github.com/cytoscape/ipycytoscape) - Widget for interactive graph visualization in Jupyter using cytoscape.js. <!--lint disable double-link-->
 - [ipydagred3](https://github.com/timkpaine/ipydagred3) - [ipywidgets](https://github.com/jupyter-widgets/ipywidgets) library for drawing directed acyclic graphs in jupyterlab using dagre-d3.  <!--lint enable double-link-->
 - [ipyleaflet](https://github.com/jupyter-widgets/ipyleaflet) - Interactive visualization library for Leaflet.js maps in Jupyter notebooks.
-- [ipyregulartable](https://github.com/jpmorganchase/ipyregulartable) - High performance, editable, stylable datagrids in Jupyter.
-- [ipysheet](https://github.com/QuantStack/ipysheet/) - Interactive spreadsheets in Jupyter.
 - [IPySigma](https://github.com/bsnacks000/IPySigma-Demo) - Prototype network visualization frontend for Jupyter notebooks.
 - [ipytree](https://github.com/QuantStack/ipytree/) - Tree UI element for Jupyter.
 - [ipyvizzu](https://github.com/vizzuhq/ipyvizzu) - Animated data storytelling tool.
@@ -117,7 +115,13 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [xwidgets](https://github.com/QuantStack/xwidgets) - C++ Backend for ipywidgets.
 
 ## Tables
-- [Qgrid](https://github.com/quantopian/qgrid) - Interactive grid for sorting, filtering, and editing DataFrames in Jupyter notebooks. Not actively developed since 2020
+
+- [buckaroo](https://github.com/paddymul/buckaroo) - GUI Data Wrangling tool for Jupyter and Pandas.
+- [ipyaggrid](https://github.com/widgetti/ipyaggrid) -  The power of ag-Grid in Jupyter notebooks.
+- [ipydatagrid](https://github.com/bloomberg/ipydatagrid) - Fast Datagrid widget for the Jupyter Notebook and JupyterLab.
+- [ipyregulartable](https://github.com/jpmorganchase/ipyregulartable) - High performance, editable, stylable datagrids in Jupyter.
+- [ipysheet](https://github.com/QuantStack/ipysheet/) - Interactive spreadsheets in Jupyter.
+- [Qgrid](https://github.com/quantopian/qgrid) - Interactive grid for sorting, filtering, and editing DataFrames in Jupyter notebooks. Not actively developed since 2020.
 
 ## Rendering/Publishing/Conversion
 

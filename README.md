@@ -32,6 +32,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [Runtimes/Frontends](#runtimesfrontends)
 - [Collaboration/Education](#collaborationeducation)
 - [Visualization](#visualization)
+- [Table Widgets](#Tables)
 - [Rendering/Publishing/Conversion](#renderingpublishingconversion)
 - [Version Control](#version-control)
 - [JupyterLab Extensions](#jupyterlab-extensions)
@@ -109,12 +110,14 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [Perspective](https://github.com/finos/perspective) - Data visualization and analytics component, especially for large/streaming datasets.
 - [pyecharts](https://github.com/pyecharts/pyecharts) - Python interface for the [ECharts](https://github.com/apache/incubator-echarts) visualization library.
 - [pythreejs](https://github.com/jovyan/pythreejs) - Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
-- [Qgrid](https://github.com/quantopian/qgrid) - Interactive grid for sorting, filtering, and editing DataFrames in Jupyter notebooks.
 - [tqdm](https://github.com/tqdm/tqdm) - Fast, extensible progress bar for loops and iterables.
 - [tributary](https://github.com/timkpaine/tributary) - Python data streams with Jupyter support.
 - [xleaflet](https://github.com/QuantStack/xleaflet) - C++ Backend for ipyleaflet.
 - [xwebrtc](https://github.com/QuantStack/xwebrtc) - C++ Backend for ipywebrtc.
 - [xwidgets](https://github.com/QuantStack/xwidgets) - C++ Backend for ipywidgets.
+
+## Tables
+- [Qgrid](https://github.com/quantopian/qgrid) - Interactive grid for sorting, filtering, and editing DataFrames in Jupyter notebooks. Not actively developed since 2020
 
 ## Rendering/Publishing/Conversion
 

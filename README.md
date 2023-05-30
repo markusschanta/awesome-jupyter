@@ -32,7 +32,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [Runtimes/Frontends](#runtimesfrontends)
 - [Collaboration/Education](#collaborationeducation)
 - [Visualization](#visualization)
-- [Table Widgets](#Tables)
+- [Tables](#Tables)
 - [Rendering/Publishing/Conversion](#renderingpublishingconversion)
 - [Version Control](#version-control)
 - [JupyterLab Extensions](#jupyterlab-extensions)
@@ -116,12 +116,12 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 
 ## Tables
 
-- [buckaroo](https://github.com/paddymul/buckaroo) - GUI Data Wrangling tool for Jupyter and Pandas.
-- [ipyaggrid](https://github.com/widgetti/ipyaggrid) -  The power of ag-Grid in Jupyter notebooks.
-- [ipydatagrid](https://github.com/bloomberg/ipydatagrid) - Fast Datagrid widget for the Jupyter Notebook and JupyterLab.
+- [buckaroo](https://github.com/paddymul/buckaroo) - GUI Data Wrangling tool for Jupyter and pandas.
+- [ipyaggrid](https://github.com/widgetti/ipyaggrid) -  The power of ag-Grid in Jupyter.
+- [ipydatagrid](https://github.com/bloomberg/ipydatagrid) - Fast datagrid widget for Jupyter.
 - [ipyregulartable](https://github.com/jpmorganchase/ipyregulartable) - High performance, editable, stylable datagrids in Jupyter.
 - [ipysheet](https://github.com/QuantStack/ipysheet/) - Interactive spreadsheets in Jupyter.
-- [Qgrid](https://github.com/quantopian/qgrid) - Interactive grid for sorting, filtering, and editing DataFrames in Jupyter notebooks. Not actively developed since 2020.
+- [Qgrid](https://github.com/quantopian/qgrid) - Interactive grid for sorting, filtering, and editing DataFrames in Jupyter.
 
 ## Rendering/Publishing/Conversion
 

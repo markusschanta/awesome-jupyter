@@ -241,6 +241,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [Noteable](https://noteable.io/) - Noteable is a collaborative notebook to combine code (SQL, Python & R) and interactive visualizations.
 - [Paperspace Gradient](https://gradient.run/) - A Jupyter-backed data science IDE with accelerated hardware (GPUs) and MLOps functionality.
 - [PAWS](https://wikitech.wikimedia.org/wiki/PAWS) - Jupyter notebook deployment customized for interacting with Wikimedia wikis.
+- [Pinggy](https://pinggy.io) - Host Jupyter notebook on your PC and give access to your team through HTTPS tunnel.
 - [Saturn Cloud](https://saturncloud.io/) - Move your data science team into the cloud without having to switch tools.
 
 ## Official Resources and Documentation
@@ -281,6 +282,7 @@ is the PyPI trove classifier for Jupyter projects.
 - [List of Jupyter notebooks II](https://github.com/jupyter-naas/awesome-notebooks)
 - [pytudes](https://github.com/norvig/pytudes) - List of Jupyter Notebooks by Peter Norvig.
 - [ResGuides: research with Jupyter](https://www.gitbook.com/book/dansand/resguides-research-with-jupyter/details)
+- [Sharing Jupyter Notebooks from localhost](https://pinggy.io/blog/share_jupyter_notebook_from_localhost/) - Step-by-Step instructions to share Jupyter notebook access with collaborators directly from localhost.
 - [The Littlest JupyterHub](https://the-littlest-jupyterhub.readthedocs.io/en/latest/) - JupyterHub distribution for 1-50 users on a single server; more lightweight than the Zero to JupyterHub setup.
 - [Zero to JupyterHub](http://zero-to-jupyterhub.readthedocs.io/en/latest/) - Tutorial to help install and manage JupyterHub.
 

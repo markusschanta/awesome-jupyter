@@ -242,6 +242,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [Paperspace Gradient](https://gradient.run/) - A Jupyter-backed data science IDE with accelerated hardware (GPUs) and MLOps functionality.
 - [PAWS](https://wikitech.wikimedia.org/wiki/PAWS) - Jupyter notebook deployment customized for interacting with Wikimedia wikis.
 - [Pinggy](https://pinggy.io) - Create a tunnel to your Jupyter instance even if it is behind a firewall or NAT.
+- [qBraid Lab](https://docs.qbraid.com/en/latest/lab/getting_started.html) - JupyterLab deployment providing curated software tools and integrations for researchers and developers in quantum computing.
 - [Saturn Cloud](https://saturncloud.io/) - Move your data science team into the cloud without having to switch tools.
 
 ## Official Resources and Documentation

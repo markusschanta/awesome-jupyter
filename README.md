@@ -169,7 +169,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [genv](https://github.com/run-ai/jupyterlab_genv) - Extension for managing GPU environments in JupyterLab.
 - [go-to-definition](https://github.com/krassowski/jupyterlab-go-to-definition) - Extension for navigating to the definition of a variable or function in JupyterLab.
 - [google-drive](https://github.com/jupyterlab/jupyterlab-google-drive) - Extension for Google Drive integration.
-- [jupyter-ai](https://github.com/jupyterlab/jupyter-ai) - Powerful way to explore generative AI models in notebooks and improve your productivity in JupyterLab and Notebooks.
+- [jupyter-ai](https://github.com/jupyterlab/jupyter-ai) - Work with generative AIs (wide range of models supported) as a conversational assistant in JupyterLab.
 - [jupyter-fs](https://github.com/jpmorganchase/jupyter-fs) - A filesystem-like content manager for multiple backends in Jupyter.
 - [jupyter-notify](https://github.com/ShopRunner/jupyter-notify) - Cell magic for browser notification of cell completion. <!--lint disable double-link-->
 - [jupyter-panel-proxy](https://github.com/holoviz/jupyter-panel-proxy) - Automatically serve notebooks as [Panel](https://panel.holoviz.org) data apps at the `/panel` endpoint of your Jupyter server. <!--lint enable double-link-->

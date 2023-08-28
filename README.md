@@ -171,6 +171,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [google-drive](https://github.com/jupyterlab/jupyterlab-google-drive) - Extension for Google Drive integration.
 - [jupyter-ai](https://github.com/jupyterlab/jupyter-ai) - Work with generative AIs (wide range of models supported) as a conversational assistant in JupyterLab.
 - [jupyter-fs](https://github.com/jpmorganchase/jupyter-fs) - A filesystem-like content manager for multiple backends in Jupyter.
+- [jupyter-stack-trace](https://github.com/teticio/jupyter-stack-trace) - Click on an item in the stack trace to open the file on the relevant line.
 - [jupyter-notify](https://github.com/ShopRunner/jupyter-notify) - Cell magic for browser notification of cell completion. <!--lint disable double-link-->
 - [jupyter-panel-proxy](https://github.com/holoviz/jupyter-panel-proxy) - Automatically serve notebooks as [Panel](https://panel.holoviz.org) data apps at the `/panel` endpoint of your Jupyter server. <!--lint enable double-link-->
 - [jupyterlab-executor](https://github.com/gavincyi/jupyterlab-executor) - Extension to execute scripts from the Jupyterlab file browser. <!--lint disable double-link-->

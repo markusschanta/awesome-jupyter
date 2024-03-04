@@ -121,6 +121,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [ipydatagrid](https://github.com/bloomberg/ipydatagrid) - Fast datagrid widget for Jupyter.
 - [ipyregulartable](https://github.com/jpmorganchase/ipyregulartable) - High performance, editable, stylable datagrids in Jupyter.
 - [ipysheet](https://github.com/QuantStack/ipysheet/) - Interactive spreadsheets in Jupyter.
+- [ITables](https://github.com/mwouts/itables) - Pandas and Polars DataFrames rendered as interactive [datatables-net](https://datatables.net/) tables.
 - [Qgrid](https://github.com/quantopian/qgrid) - Interactive grid for sorting, filtering, and editing DataFrames in Jupyter.
 
 ## Rendering/Publishing/Conversion

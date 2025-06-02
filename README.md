@@ -215,6 +215,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [sphinxcontrib-jupyter](https://github.com/QuantEcon/sphinxcontrib-jupyter) - Sphinx extension for generating Jupyter notebooks.
 - [treebeard](https://github.com/treebeardtech/treebeard) - GitHub Action for testing/scheduling Jupyter notebooks.
 - [treon](https://github.com/ReviewNB/treon) - Easy-to-use test framework for Jupyter Notebooks.
+- [pointblank](https://github.com/posit-dev/pointblank) - Notebook-friendly testing of DataFrames and database tables for data quality purposes.
 
 ## Domain-Specific Projects
 

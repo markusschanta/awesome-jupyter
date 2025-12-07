@@ -236,6 +236,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [CoCalc](https://cocalc.com) - Notebooks with 17 supported kernel types, course management, LaTeX document authoring, simultaneous document editing and integration with the SageMath computer algebra system.
 - [DataBlogs](https://www.datablogs.co/) - DataBlogs is an open-source data journalism platform that converts Jupyter notebooks into published articles on the web.
 - [DataCamp Workspace](https://www.datacamp.com/workspace) - Jupyter-backed data science notebooks with built-in collaboration and publishing functionality.
+- [Datalore](https://www.jetbrains.com/datalore) - Jupyter-compatible data science and analytics notebook solution for team collaboration by JetBrains.
 - [Deepnote](https://www.deepnote.com) - Jupyter-compatible data science notebook with real-time collaboration, versioning and easy deployment.
 - [Domino Data Lab](https://www.dominodatalab.com) - Data science platform with integrated collaboration tools, environment management and compute grid.
 - [Google Cloud AI Platform Notebooks](https://cloud.google.com/ai-platform-notebooks) - Managed JupyterLab notebook instances configured with GPU-enabled machine learning frameworks on Google Cloud Platform.

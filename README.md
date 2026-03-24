@@ -72,6 +72,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 
 - [callgraph](https://github.com/osteele/callgraph) - Magic to display a function call graph.
 - [IllumiDesk](https://github.com/IllumiDesk/illumidesk) - Docker-based JupyterHub + LTI + nbgrader distribution for education.
+- [ipygame](https://github.com/Kamuyin/ipygame) - A pygame-compatible reimplementation for Jupyter notebooks.
 - [IPythonBlocks](https://github.com/jiffyclub/ipythonblocks) - Practice Python with colored grids in Jupyter.
 - [jupyter-drive](https://github.com/jupyter/jupyter-drive) - Google Drive for Jupyter.
 - [jupyter-edx-grader-xblock](https://github.com/ibleducation/jupyter-edx-grader-xblock) - Auto-grade a student assignment created as a Jupyter notebook and write the score in the Open edX gradebook.

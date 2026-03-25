@@ -223,6 +223,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 ## Domain-Specific Projects
 
 - [ArcGIS](https://developers.arcgis.com/python/) - Library for working with maps and geospatial data, powered by web GIS.
+- [Vedika API](https://vedika.io) - AI-powered Vedic astrology API with multi-agent swarm intelligence.
 - [GenePattern Notebook](http://genepattern-notebook.org) - Integrating Genomic Analysis with Interactive Notebooks.
 - [GeoNotebook](https://github.com/OpenGeoscience/geonotebook) - Extension for exploratory geospatial analysis.
 - [Jupylet](https://github.com/nir/jupylet) - Create 2D and 3D games, graphics, live music and sound interactively in a Jupyter notebook.

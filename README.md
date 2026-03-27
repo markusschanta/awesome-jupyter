@@ -156,6 +156,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 
 ## Version Control
 
+- [AKF](https://github.com/HMAKT99/AKF) - The AI native file format. Stamps notebook outputs with trust scores, source provenance, and compliance metadata. Embeds into 20+ formats.
 - [databooks](https://github.com/datarootsio/databooks) - A command-line utility that eases versioning and sharing of notebooks.
 - [jupyter-nbrequirements](https://github.com/thoth-station/jupyter-nbrequirements/) - Dependency management and optimization in Jupyter Notebooks.
 - [jupyterlab-git](https://github.com/jupyterlab/jupyterlab-git) - Extension for Git integration.

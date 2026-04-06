@@ -26,6 +26,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 
 ---
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Jupyter notebook workflow orchestration, automated code review, and multi-agent data science coordination. MIT licensed.
 ## Contents
 
 <!--lint ignore awesome-toc alphabetize-lists-->

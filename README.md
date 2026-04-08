@@ -180,6 +180,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [jupyter-notify](https://github.com/ShopRunner/jupyter-notify) - Cell magic for browser notification of cell completion. <!--lint disable double-link-->
 - [jupyter-panel-proxy](https://github.com/holoviz/jupyter-panel-proxy) - Automatically serve notebooks as [Panel](https://panel.holoviz.org) data apps at the `/panel` endpoint of your Jupyter server. <!--lint enable double-link-->
 - [jupyter-stack-trace](https://github.com/teticio/jupyter-stack-trace) - Click on the stack trace to open the respective file or a Google search.
+- [jupyter-resource-usage](https://github.com/jupyter-server/jupyter-resource-usage) - Extension to display system metrics.
 - [jupyterlab-executor](https://github.com/gavincyi/jupyterlab-executor) - Extension to execute scripts from the Jupyterlab file browser. <!--lint disable double-link-->
 - [jupyterlab-kyso](https://github.com/kyso-io/jupyterlab-extension) - Extension to publish notebooks to the [Kyso](https://kyso.io) platform from Jupyterlab. <!--lint enable double-link-->
 - [jupyterlab-notifications](https://github.com/mwakaba2/jupyterlab-notifications) - Customizable notebook cell completion browser notifications for JupyterLab.
@@ -200,7 +201,6 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [sidecar](https://github.com/jupyter-widgets/jupyterlab-sidecar) - A sidecar output widget for JupyterLab.
 - [sql](https://github.com/pbugnion/jupyterlab-sql) - SQL GUI for JupyterLab.
 - [stickyland](https://github.com/xiaohk/stickyland) - Break the linear presentation of notebooks with sticky cells.
-- [system-monitor](https://github.com/jtpio/jupyterlab-system-monitor) - Extension to display system metrics.
 - [tabnine](https://github.com/codota/tabnine-jupyterlab) - Tabnine AI auto completer extension.
 - [theme-darcula](https://github.com/telamonian/theme-darcula) - A handsome Darcula theme for Jupyterlab.
 - [toc](https://github.com/jupyterlab/jupyterlab-toc) - Extension that provides a table of contents for notebooks.

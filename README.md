@@ -226,6 +226,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [GenePattern Notebook](http://genepattern-notebook.org) - Integrating Genomic Analysis with Interactive Notebooks.
 - [GeoNotebook](https://github.com/OpenGeoscience/geonotebook) - Extension for exploratory geospatial analysis.
 - [Jupylet](https://github.com/nir/jupylet) - Create 2D and 3D games, graphics, live music and sound interactively in a Jupyter notebook.
+- [jupyter-shopsavvy](https://github.com/shopsavvy/jupyter-shopsavvy) - Magic commands for product search, price comparison, and price history charts using the ShopSavvy API.
 - [keplergl](https://docs.kepler.gl/docs/keplergl-jupyter) - Jupyter extension for visual exploration of large-scale geolocation data sets.
 - [lolviz](https://github.com/parrt/lolviz) - Data-structure visualization tool for lists of lists, lists, dictionaries.
 - [Quantopian Notebooks](https://www.quantopian.com/notebooks/survey) - Jupyter-based platform for financial research.

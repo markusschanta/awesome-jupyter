@@ -54,6 +54,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [docker-stacks](https://github.com/jupyter/docker-stacks) - Hierarchical stacks of ready-to-run Jupyter applications in Docker.
 - [Guild AI](https://my.guild.ai/docs/jupyter-notebook-experiments/) - Execute notebooks as experiments to capture and compare results over time.
 - [Hydrogen](https://github.com/nteract/hydrogen) - Run code inline in Atom using Jupyter kernels.
+- [JupyterLite](https://github.com/jupyterlite/jupyterlite) - Jupyter distribution that runs entirely in the browser.
 - [Jupyter Notebook](https://github.com/jupyter/notebook) - Main Jupyter notebook runtime.
 - [JupyterHub](https://github.com/jupyterhub/jupyterhub) - Multi-user server for Jupyter.
 - [JupyterLab](https://github.com/jupyterlab/jupyterlab) - JupyterLab is the next generation user interface for Jupyter.

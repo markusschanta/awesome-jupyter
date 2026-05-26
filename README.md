@@ -229,6 +229,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [keplergl](https://docs.kepler.gl/docs/keplergl-jupyter) - Jupyter extension for visual exploration of large-scale geolocation data sets.
 - [lolviz](https://github.com/parrt/lolviz) - Data-structure visualization tool for lists of lists, lists, dictionaries.
 - [Quantopian Notebooks](https://www.quantopian.com/notebooks/survey) - Jupyter-based platform for financial research.
+- [Helium MCP](https://github.com/connerlambden/helium-mcp) - Free REST + MCP API for financial and news research from inside notebooks. Returns JSON for ML options pricing (per-symbol fair value, prob_ITM, Greeks) and 3.2M+ articles with 31-dimension bias scoring. 50 free queries per IP, no signup.
 - [vpython-jupyter](https://github.com/BruceSherwood/vpython-jupyter) - VPython 3D engine running in a Jupyter notebook.
 - [xontrib-jupyter](https://github.com/xonsh/xontrib-jupyter) - Jupyter kernel for xonsh, a Python-powered, cross-platform, Unix-gazing shell language.
 

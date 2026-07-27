@@ -62,7 +62,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [kaggle/docker-python](https://github.com/kaggle/docker-python) - Kaggle Python Docker image that includes datasets and packages.
 - [ML Workspace](https://github.com/ml-tooling/ml-workspace) - Docker image that includes Jupyter(Lab) and various packages for data science/machine learning.
 - [nteract](https://github.com/nteract/nteract) - Native desktop notebook frontend. <!--lint disable double-link-->
-- [OpenFiles](https://openfiles.pansysoft.app/) - Desktop file workspace for editing and running local Jupyter notebooks alongside more than 350 other file formats.
+- [OpenFiles](https://openfiles.pansysoft.app/) - Desktop file workspace for editing/running local Jupyter notebooks and more than 350 other file formats.
 - [Panel](https://github.com/holoviz/panel) - Notebooks as static files or interactive and standalone server-/client-side (via pyodide) apps.
 - [PaneLite](https://panelite.holoviz.org) - A distribution of [JupyterLite](https://jupyterlite.readthedocs.io/en/latest/) that works with [Panel](https://panel.holoviz.org) and the [HoloViz](https://holoviz.org) ecosystem. <!--lint enable double-link-->
 - [Stencila](https://github.com/stencila/stencila) - Native desktop notebook frontend.

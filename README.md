@@ -106,6 +106,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [jp_doodle](https://github.com/AaronWatters/jp_doodle) - Infrastructure for building special purpose interactive diagrams in 2D and 3D.
 - [jupyter-gmaps](https://github.com/pbugnion/gmaps) - Interactive visualization library for Google Maps in Jupyter notebooks.
 - [jupyter-manim](https://github.com/krassowski/jupyter-manim) - Display [manim](https://github.com/3b1b/manim) (Mathematical Animation Engine) videos or GIFs in Jupyter notebooks.
+- [K3D-jupyter](https://github.com/K3D-tools/K3D-jupyter) - WebGL 3D plotting in Jupyter: meshes, isosurfaces, volumes, voxels and point clouds from NumPy arrays.
 - [lux](https://github.com/lux-org/lux) - Recommends a set of visualizations whenever a dataframe is printed in a notebook.
 - [mpld3](http://mpld3.github.io) - Combining Matplotlib and D3js for interactive data visualizations.
 - [pd-replicator](https://github.com/scwilkinson/pd-replicator) - Copy a Pandas DataFrame to the clipboard with one click.

@@ -175,6 +175,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [celltags](https://github.com/jupyterlab/jupyterlab-celltags) - Extension to organise and execute notebooks using cell tags.
 - [code_formatter](https://github.com/ryantam626/jupyterlab_code_formatter) - A universal code formatter.
 - [debugger](https://github.com/jupyterlab/debugger) - A visual debugger for Jupyter notebooks, consoles, and source files.
+- [devscholar](https://github.com/pallaprolus/devscholar-jupyter) - Hover metadata, PDF preview and BibTeX export for paper references (arXiv, DOI) in notebook cells.
 - [drawio](https://github.com/QuantStack/jupyterlab-drawio) - Extension that displays drawio/mxgraph diagrams.
 - [elyra](https://github.com/elyra-ai/elyra) - A visual editor for creating and running notebook (or Python script) pipelines locally or remotely.
 - [genv](https://github.com/run-ai/jupyterlab_genv) - Extension for managing GPU environments in JupyterLab.

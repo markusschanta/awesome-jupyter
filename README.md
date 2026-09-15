@@ -211,7 +211,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 ## Testing
 
 - [ipytest](https://github.com/chmp/ipytest) - Test runner for running unit tests from within a notebook.
-- [Jupyter Notebook Validator Operator](https://github.com/tosin2013/jupyter-notebook-validator-operator) - Kubernetes operator for validating Jupyter notebooks in the cluster (Papermill, golden notebook comparison, Git-based workflows).
+- [Jupyter Notebook Validator Operator](https://github.com/tosin2013/jupyter-notebook-validator-operator) - Kubernetes operator that validates notebooks against golden baselines and model endpoints.
 - [nbcelltests](https://github.com/jpmorganchase/nbcelltests) - Cell-by-cell testing for notebooks in Jupyter.
 - [nbval](https://github.com/computationalmodelling/nbval) - Py.test plugin for validating Jupyter notebooks.
 - [nosebook](https://github.com/bollwyvl/nosebook) - Nose plugin for finding and running IPython notebooks as nose tests.

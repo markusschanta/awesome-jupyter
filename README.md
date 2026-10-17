@@ -240,6 +240,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [lolviz](https://github.com/parrt/lolviz) - Data-structure visualization tool for lists of lists, lists, dictionaries.
 - [Quantopian Notebooks](https://www.quantopian.com/notebooks/survey) - Jupyter-based platform for financial research.
 - [vpython-jupyter](https://github.com/BruceSherwood/vpython-jupyter) - VPython 3D engine running in a Jupyter notebook.
+- [VulnState](https://github.com/corifeo/VulnState) - Vulnerability disclosure analytics over NVD, EPSS and CISA KEV data, with HTML rendering in notebooks and example analysis notebooks.
 - [xontrib-jupyter](https://github.com/xonsh/xontrib-jupyter) - Jupyter kernel for xonsh, a Python-powered, cross-platform, Unix-gazing shell language.
 
 ## Hosted Notebook Solutions

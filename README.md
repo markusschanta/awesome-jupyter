@@ -66,6 +66,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [OpenFiles](https://openfiles.pansysoft.app/) - Desktop file workspace for editing/running local Jupyter notebooks and 350+ other file formats.
 - [Panel](https://github.com/holoviz/panel) - Notebooks as static files or interactive and standalone server-/client-side (via pyodide) apps.
 - [PaneLite](https://panelite.holoviz.org) - A distribution of [JupyterLite](https://jupyterlite.readthedocs.io/en/latest/) that works with [Panel](https://panel.holoviz.org) and the [HoloViz](https://holoviz.org) ecosystem. <!--lint enable double-link-->
+- [SpurLab](https://getspur.dev/spurlab) - Desktop notebook frontend that brings an ACP-compatible coding agent into a Jupyter notebook for Python, SQL, and DuckDB.
 - [Stencila](https://github.com/stencila/stencila) - Native desktop notebook frontend.
 - [Visual Studio Code](https://code.visualstudio.com/docs/python/jupyter-support) - Native desktop notebook frontend.
 - [voila](https://github.com/voila-dashboards/voila) - Notebooks as interactive standalone web applications.

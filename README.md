@@ -141,6 +141,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [Ganimede](https://github.com/manugraj/ganimede) - Store, version, edit and execute notebooks in sandboxes and integrate them directly via REST interfaces.
 - [ipynbtopdf](https://ipynbtopdf.xyz/) - Browser-only Jupyter notebook to PDF converter; no upload or LaTeX toolchain.
 - [Jupyter Book](https://github.com/executablebooks/jupyter-book) - Build publication-quality books and documents from computational material.
+- [Jupyter Notebook Viewer](https://pagelive.io/tools/jupyter-notebook-viewer) - Browser-based .ipynb viewer that shows Markdown, code and saved outputs, with export to PDF or HTML; free, no sign-up and nothing is uploaded.
 - [jupyterlab_nbconvert_nocode](https://github.com/timkpaine/jupyterlab_nbconvert_nocode) - NBConvert exporters for PDF/HTML export without code cells.
 - [Jupytext](https://github.com/mwouts/jupytext) - Convert and synchronize notebooks with text formats (e.g. Python or Markdown files) that work well under version control.
 - [jut](https://github.com/kracekumar/jut) - CLI to nicely display notebooks in the terminal.

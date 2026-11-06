@@ -151,6 +151,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [nbflow](https://github.com/jhamrick/nbflow) - One-button reproducible workflows with Jupyter and Scons.
 - [nbinteract](https://www.nbinteract.com) - Create interactive webpages from Jupyter notebooks.
 - [nbscan](https://github.com/conery/nbscan) - Search for and print cells contents of Jupyter notebooks.
+- [nbview](https://github.com/chizkidd/nbview) - View and diff Jupyter notebooks entirely in the browser, from GitHub, gists or any URL; no upload, no server.
 - [Nikola](https://getnikola.com) - Static Site Generator that converts notebooks into websites.
 - [Notebook Lens](https://plugins.jetbrains.com/plugin/33811-notebook-lens-jupyter-ipynb-viewer) - View .ipynb notebooks with outputs inside JetBrains IDEs without running a kernel.
 - [notedown](https://github.com/aaren/notedown/) - Convert Jupyter notebooks to markdown (and back).

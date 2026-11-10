@@ -264,6 +264,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [Pinggy](https://pinggy.io) - Create a tunnel to your Jupyter instance even if it is behind a firewall or NAT.
 - [qBraid Lab](https://docs.qbraid.com/en/latest/lab/getting_started.html) - JupyterLab deployment providing curated software tools and integrations for quantum computing.
 - [Saturn Cloud](https://saturncloud.io/) - Move your data science team into the cloud without having to switch tools.
+- [Scigantic](https://scigantic.com) - Jupyter notebooks with public scientific datasets mounted as folders, so analysis starts without a download step.
 
 ## Official Resources and Documentation
 

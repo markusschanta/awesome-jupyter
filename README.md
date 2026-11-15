@@ -291,6 +291,7 @@ is the PyPI trove classifier for Jupyter projects.
 ## Articles/Guides/Tutorials
 
 - [Accessibility for Screen Readers](https://hack5.dev/accessibility/jupyter/terminal/2026/02/19/accessible-jupyer.html) - Guide for converting Jupyter Notebooks to a screen-reader-compatible format.
+- [Apify Data Notebooks](https://github.com/johnisanerd/apify-colab-notebooks) - Colab notebooks that pull job postings, Google Maps places, Crunchbase company data and YouTube transcripts into pandas.
 - [Exploratory computing with Python](http://mbakker7.github.io/exploratory_computing_with_python/) - Collection of notebooks covering scientific computing.
 - [How to Grow Neat Software Architecture out of Jupyter Notebooks](https://github.com/guillaume-chevalier/How-to-Grow-Neat-Software-Architecture-out-of-Jupyter-Notebooks) - Article and [video](https://www.youtube.com/watch?v=K4QN27IKr0g) about growing a neat software architecture from notebooks.
 - [Install and run a Jupyter notebook in a Google Cloud Dataproc cluster](https://cloud.google.com/dataproc/docs/tutorials/jupyter-notebook)

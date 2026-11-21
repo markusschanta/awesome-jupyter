@@ -92,6 +92,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [anywidget](https://anywidget.dev) - A Python library that simplifies creating and publishing custom Jupyter widgets. 
 - [Bokeh](https://bokeh.pydata.org/en/latest/) - Interactive visualization library that targets modern web browsers for presentation.
 - [bqplot](https://github.com/bloomberg/bqplot) - Grammar of Graphics-based interactive plotting framework for Jupyter.
+- [dataviz](https://github.com/dataviz-rs/dataviz/tree/main/python) - Fast plotting from NumPy, pandas and Polars data with a Rust renderer: inline charts, an interactive widget with zoom, hover and linked brushing, and a matplotlib-style `pyplot`.
 - [Evidently](https://github.com/evidentlyai/evidently) - Interactive reports to analyze machine learning models during validation or production monitoring.
 - [FlexViz](https://github.com/flex-analytics/flexviz) - Interactive cross-filter dashboards for datasets that are too large for the browser.
 - [hvplot](https://hvplot.holoviz.org/) - A familiar and high-level API for data exploration and visualization in Jupyter.

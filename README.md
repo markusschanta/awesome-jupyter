@@ -245,6 +245,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 ## Hosted Notebook Solutions
 
 - [Anaconda Enterprise](https://www.anaconda.com/enterprise/) - Multi-user collaboration and one-click deployment of models, notebooks, and dashboards.
+- [Apidly Cloud](https://apidly.com) - JupyterLab on rented GPU servers, billed by the second with spending limits and idle auto-stop.
 - [Azure Notebooks](https://notebooks.azure.com) - Jupyter notebooks running in the cloud on Microsoft Azure.
 - [CoCalc](https://cocalc.com) - Notebooks with 17 supported kernel types, course management, LaTeX document authoring, simultaneous document editing and integration with the SageMath computer algebra system.
 - [DataBlogs](https://www.datablogs.co/) - DataBlogs is an open-source data journalism platform that converts Jupyter notebooks into published articles on the web.
